@@ -1,390 +1,852 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
-    "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-    "pubDate": "Tue, 20 Jan 2026 16:00:57 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Humans&#038;, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
-    "contentSnippet": "Humans&, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
-    "guid": "https://techcrunch.com/?p=3083788",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "Anthropic",
-      "Google",
-      "humans&",
-      "In Brief",
-      "xAI"
-    ],
-    "isoDate": "2026-01-20T16:00:57.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+    "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+    "pubDate": "Tue, 20 Jan 2026 19:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pw9mrLv_u7G4cYmZabAPduOBzVremxpnTTBjAnpvt95Kdt-kVFdO1GuHAnFwKZ0MNOAB86u6PacmrUDnAT0tcXghadZTRaEQTFiCXUTcoQksHFc4FKIpWGGYeVmJHM0kLvyWrUC7QPHJ6sjkHGEPgjNwkjpJSQihknrukwDKzuvW445fDoi1tNPfThXW/s1600/git-ai-flaw.jpg"
+    },
+    "content": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
+    "contentSnippet": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
+    "guid": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+    "isoDate": "2026-01-20T13:55:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
-    "link": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
-    "pubDate": "Tue, 20 Jan 2026 13:50:09 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The funding comes as the startup claims it has scaled ARR to $50 million, and is targeting $100 million by April 2026.",
-    "contentSnippet": "The funding comes as the startup claims it has scaled ARR to $50 million, and is targeting $100 million by April 2026.",
-    "guid": "https://techcrunch.com/?p=3083742",
-    "categories": [
-      "AI",
-      "Startups",
-      "emergent",
-      "Khosla Ventures",
-      "lightspeed venture partners",
-      "Softbank",
-      "vibe coding"
-    ],
-    "isoDate": "2026-01-20T13:50:09.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+    "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+    "pubDate": "Tue, 20 Jan 2026 19:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfS_8l12ibwFemmowyvwW3TRy6H3Hk3BjSa-r1KzCfVMU2rB1wOoswclUs5hEuXN2TjQGz9y5eWSe7i8-crBQWCc4Nr8cDHOLDBU0e8T5r66eP_nWjkzIYwvp3hoKTZury1NQLnx6SOxM2OCwpC6Syr4zqHriStaxEksPoIbOJB4aPmAFHwhiucSErD-wM/s1600/linkedin.jpg"
+    },
+    "content": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
+    "contentSnippet": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
+    "guid": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+    "isoDate": "2026-01-20T13:46:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
-    "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-    "pubDate": "Mon, 19 Jan 2026 18:06:34 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
-    "contentSnippet": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
-    "guid": "https://techcrunch.com/?p=2976754",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Fundraising",
-      "Startups",
-      "artificial intelligence",
-      "evergreens"
-    ],
-    "isoDate": "2026-01-19T18:06:34.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Hidden Risk of Orphan Accounts",
+    "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+    "pubDate": "Tue, 20 Jan 2026 17:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-z9xF6QsTXxdgaSXZJQKDVTmBJGusdJ30GBYqWZ4w29KDo3yRA3HGE8BsxyQoctkOWtsv-b90dH698y-H015umuI0oOCHaPApTLj3UMcaMV9aYIqA_Oel0ZHHOy4g9qufvVc4kmRKyafIvCBKCHPsnVdx4ppZssttmenN8gEw0emeoNyTzYuuZur5s_Y/s1600/Orphan.gif"
+    },
+    "content": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation.&nbsp;\nTraditional IAM and IGA systems are designed",
+    "contentSnippet": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation. \nTraditional IAM and IGA systems are designed",
+    "guid": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+    "isoDate": "2026-01-20T11:58:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
-    "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
-    "pubDate": "Mon, 19 Jan 2026 16:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance. ",
-    "contentSnippet": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance.",
-    "guid": "https://techcrunch.com/?p=3083238",
-    "categories": [
-      "Startups",
-      "Security",
-      "AI",
-      "cybersecurity",
-      "Ballistic Ventures",
-      "AI agents",
-      "ai security",
-      "witness ai"
-    ],
-    "isoDate": "2026-01-19T16:00:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+    "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+    "pubDate": "Tue, 20 Jan 2026 17:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXd0cDqljLdjUTKJVODHzhlibAZe2-m53DWQpXWjKLY2pZyxDivUWJFky8KJbZ48kAKDTbwuh7FtNGmI9JKsaNivp5Xr-HrK803vlk0PsfbSYX2cxkTQoOBue2mRQ6ExYZpdLi3RQUvbuMjhndYKUAaFQxNTIm69cKuKFm5AgyAs6sUerbkWXs6RwTikXV/s1600/keys.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.\n\"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.\n\"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
+    "guid": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+    "isoDate": "2026-01-20T11:48:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Sarah Perez",
-    "title": "Well, there goes the metaverse!",
-    "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
-    "pubDate": "Mon, 19 Jan 2026 16:00:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions. ",
-    "contentSnippet": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions.",
-    "guid": "https://techcrunch.com/?p=3083143",
-    "categories": [
-      "AI",
-      "Apps",
-      "Hardware",
-      "Social",
-      "TC",
-      "Facebook",
-      "Horizon Worlds",
-      "Meta",
-      "metaverse",
-      "Quest"
-    ],
-    "isoDate": "2026-01-19T16:00:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+    "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+    "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg"
+    },
+    "content": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&nbsp;\n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+    "contentSnippet": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+    "guid": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+    "isoDate": "2026-01-20T11:12:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Russell Brandom",
-    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
-    "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-    "pubDate": "Sun, 18 Jan 2026 15:30:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
-    "contentSnippet": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
-    "guid": "https://techcrunch.com/?p=3083660",
-    "categories": [
-      "AI",
-      "llm",
-      "moxie marlinspike"
-    ],
-    "isoDate": "2026-01-18T15:30:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+    "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+    "pubDate": "Tue, 20 Jan 2026 16:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieV5wPGUwZgsm79ntLb9Sz_6xAPAV54CQ1SztbNfpLe-ovKEkTrCsLBRsD52c87yFiByHZGandN1pYNNBn1OLUpc5iEFJnGP0YRn_WWeWod1xxQUNhjlD1vFMh-4EI2fq06Gt86H_U7rX7FBjhLoXrhtzQKqjLRa3X6c7W86BFrR5xfDX80ve6UDs4zU8/s1600/main.jpg"
+    },
+    "content": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&nbsp;\nApplying this at scale by scanning 5 million applications revealed over",
+    "contentSnippet": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. \nApplying this at scale by scanning 5 million applications revealed over",
+    "guid": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+    "isoDate": "2026-01-20T10:45:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Connie Loizos",
-    "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-    "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-    "pubDate": "Sat, 17 Jan 2026 08:26:08 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
-    "contentSnippet": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
-    "guid": "https://techcrunch.com/?p=3083629",
-    "categories": [
-      "AI",
-      "TC",
-      "Elon Musk",
-      "OpenAI",
-      "openai lawsuit"
-    ],
-    "isoDate": "2026-01-17T08:26:08.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+    "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+    "pubDate": "Tue, 20 Jan 2026 13:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s1600/botcoin.jpg"
+    },
+    "content": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+    "contentSnippet": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+    "guid": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+    "isoDate": "2026-01-20T07:40:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Julie Bort",
-    "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
-    "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-    "pubDate": "Fri, 16 Jan 2026 23:46:33 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.",
-    "contentSnippet": "Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.",
-    "guid": "https://techcrunch.com/?p=3083514",
-    "categories": [
-      "AI",
-      "Startups",
-      "AI data center",
-      "Exclusive",
-      "runpod"
-    ],
-    "isoDate": "2026-01-16T23:46:33.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+    "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "pubDate": "Mon, 19 Jan 2026 22:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+    "guid": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "isoDate": "2026-01-19T17:21:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-    "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-    "pubDate": "Fri, 16 Jan 2026 23:21:24 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike. ",
-    "contentSnippet": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
-    "guid": "https://techcrunch.com/?p=3083559",
-    "categories": [
-      "AI",
-      "artificial intelligence",
-      "deepfakes",
-      "Elon Musk",
-      "X",
-      "xAI"
-    ],
-    "isoDate": "2026-01-16T23:21:24.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "pubDate": "Mon, 19 Jan 2026 18:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg"
+    },
+    "content": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
+    "contentSnippet": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
+    "guid": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "isoDate": "2026-01-19T13:17:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
-    "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-    "pubDate": "Fri, 16 Jan 2026 20:14:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs. ",
-    "contentSnippet": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs.",
-    "guid": "https://techcrunch.com/?p=3076938",
-    "categories": [
-      "AI",
-      "Biotech & Health",
-      "biotech",
-      "Chai Discovery",
-      "Eli Lilly",
-      "General Catalyst",
-      "OpenAI",
-      "sam altman"
-    ],
-    "isoDate": "2026-01-16T20:14:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+    "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+    "pubDate": "Mon, 19 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg"
+    },
+    "content": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+    "contentSnippet": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+    "guid": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+    "isoDate": "2026-01-19T11:55:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "ChatGPT users are about to get hit with targeted ads",
-    "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-    "pubDate": "Fri, 16 Jan 2026 19:54:19 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI says that users impacted by the ads will have some control over what they see. ",
-    "contentSnippet": "OpenAI says that users impacted by the ads will have some control over what they see.",
-    "guid": "https://techcrunch.com/?p=3083430",
-    "categories": [
-      "AI",
-      "advertising",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "isoDate": "2026-01-16T19:54:19.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs",
+    "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+    "pubDate": "Mon, 19 Jan 2026 17:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvBKIwExgNlDEHvCub_5W4y4uhPhsKYtGX8oPC_DrwzV5Wl5i_QPN2oEgBoSHBAAbsurdEryR3O56kclGi5uN38Y50ftQUAPzj1Y-r0bAS3rQ_lqRm88M4umTl1e4bAiCAGArNy2v70l31w5IArnzj8rUqxCAL2Xd3C8j2POKMP8tr6iAhsynSMNPAZH6/s1600/stack.jpg"
+    },
+    "content": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+    "contentSnippet": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+    "guid": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+    "isoDate": "2026-01-19T11:31:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Tim De Chant",
-    "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
-    "link": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
-    "pubDate": "Fri, 16 Jan 2026 19:38:27 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid. ",
-    "contentSnippet": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid.",
-    "guid": "https://techcrunch.com/?p=3083434",
-    "categories": [
-      "AI",
-      "Climate",
-      "Government & Policy",
-      "data centers",
-      "electrical grid",
-      "power plants",
-      "Trump Administration"
-    ],
-    "isoDate": "2026-01-16T19:38:27.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+    "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+    "pubDate": "Mon, 19 Jan 2026 14:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
+    "guid": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+    "isoDate": "2026-01-19T09:09:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "The AI healthcare gold rush is here",
-    "link": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-    "pubDate": "Fri, 16 Jan 2026 18:57:03 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "AI companies are clustering around healthcare and fast.&#160; In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $250 million seed round at an $850 million valuation. The money and products are pouring into health and voice AI, but so are concerns about hallucination risks, inaccurate medical information, and [&#8230;]",
-    "contentSnippet": "AI companies are clustering around healthcare and fast.  In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $250 million seed round at an $850 million valuation. The money and products are pouring into health and voice AI, but so are concerns about hallucination risks, inaccurate medical information, and […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3083413",
-    "categories": [
-      "Startups",
-      "AI",
-      "acquihire",
-      "Anthropic",
-      "chatgpt health",
-      "claude for healthcare",
-      "MergeLabs",
-      "OpenAI",
-      "voice AI"
-    ],
-    "isoDate": "2026-01-16T18:57:03.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+    "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+    "pubDate": "Mon, 19 Jan 2026 12:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgXm3VbZRhqFOmPi88AiXeiRLKHkASKs6cVSYmMLmlZiGyP3Xqdd8X1J5qkppk2zMYcKK5-rkza0xId4pky69xHymWs7aX3DXRaMGmDZm0WgtfPRjw3OyD4G2VfuB_4WveR3GQ3b0das7-37IWLkZbEQDG_jiheSCynC23sxLFLhW4Lnxhlfa_X2EAqzd/s1600/uno.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
+    "contentSnippet": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
+    "guid": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+    "isoDate": "2026-01-19T06:53:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-    "title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
-    "link": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-    "pubDate": "Fri, 16 Jan 2026 17:35:35 +0000",
-    "dc:creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-    "content": "AI companies are clustering around healthcare, and fast.  In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for Health, and Sam Altman-backed Merge Labs closed a $250 million seed round at an $850 million valuation. The money and products are pouring into health and voice AI, but so are concerns about [&#8230;]",
-    "contentSnippet": "AI companies are clustering around healthcare, and fast.  In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for Health, and Sam Altman-backed Merge Labs closed a $250 million seed round at an $850 million valuation. The money and products are pouring into health and voice AI, but so are concerns about […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3083416",
-    "categories": [
-      "AI",
-      "healthcare",
-      "OpenAI",
-      "Equity podcast",
-      "Luminar",
-      "Anthropic",
-      "Type One Energy",
-      "chatgpt health",
-      "MergeLabs"
-    ],
-    "isoDate": "2026-01-16T17:35:35.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+    "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+    "pubDate": "Sat, 17 Jan 2026 21:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VY2I87McGcsRT2S52vO2sa1A9ZvLo_H6YYLk5sCypOvjoX1H4Ee9QkvAiFJIvy0qW0dvgi_db78HgDvWHJKW9Fkaf5sLOt-RA2sP8fooQrHtv0qFf6Cazo7YjXAKY7NXJdNotK4w8aiiuz1nzNzmGbiJ6l81rbrU5-Sa7oOlMiRl08-4_4p9XtsjB1Am/s1600/Ukrainian-hacker.jpg"
+    },
+    "content": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
+    "contentSnippet": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
+    "guid": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+    "isoDate": "2026-01-17T16:26:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
-    "link": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-    "pubDate": "Fri, 16 Jan 2026 14:15:00 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "A new era of app creation is here. It's fun, it's fast, and it's fleeting. ",
-    "contentSnippet": "A new era of app creation is here. It's fun, it's fast, and it's fleeting.",
-    "guid": "https://techcrunch.com/?p=3082739",
-    "categories": [
-      "AI",
-      "Apps",
-      "Startups",
-      "micro apps"
-    ],
-    "isoDate": "2026-01-16T14:15:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+    "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+    "pubDate": "Sat, 17 Jan 2026 14:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSamhve9k7iL2Jd0BpqUkreaa3K7itkI4XIHJVBxqZ6l07U24t76eNbuhKMnRtu7eJ66TmiqgVQbAATH-pHha8jEcBz2PePIWaQDrWPky4mT6KFKVxjxe0N-yTFVEjXa3263Nt2IO_jmvJOjld503G-i99zT-7xeNf-BiAYFtyVdzV8QOu6tMvRyQbvYtn/s1600/chatgpt.jpg"
+    },
+    "content": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
+    "contentSnippet": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
+    "guid": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+    "isoDate": "2026-01-17T08:34:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
-    "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-    "pubDate": "Fri, 16 Jan 2026 07:28:25 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
-    "contentSnippet": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
-    "guid": "https://techcrunch.com/?p=3083306",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "Irina Ghose",
-      "Microsoft"
-    ],
-    "isoDate": "2026-01-16T07:28:25.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
+    "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
+    "pubDate": "Fri, 16 Jan 2026 23:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KFkvTcZ_PkWZffX2HE8olvWbZAOrsco48R3JqZQsB4hUc2GGS7xh9a6suu7I_eIe4NU8M5sjecperqY7v7V4nSuAffVy024xnlN38Ig-LPae-RiwXXxMUnf8FvvNX9HVjsf1yHr4cZaDxww_pa53yqGlSNfQtnsA6NZGwELbUyE5pPKOp96QK-BQI3GB/s1600/code.jpg"
+    },
+    "content": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.\n\"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
+    "contentSnippet": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.\n\"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
+    "guid": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
+    "isoDate": "2026-01-16T17:59:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Connie Loizos",
-    "title": "Silicon Valley’s messiest breakup is definitely headed to court",
-    "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
-    "pubDate": "Fri, 16 Jan 2026 06:45:15 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
-    "contentSnippet": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
-    "guid": "https://techcrunch.com/?p=3083312",
-    "categories": [
-      "AI",
-      "Elon Musk",
-      "In Brief",
-      "Microsoft",
-      "OpenAI"
-    ],
-    "isoDate": "2026-01-16T06:45:15.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+    "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+    "pubDate": "Fri, 16 Jan 2026 19:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kvgFz8ELXceV5_LsBgcodkjSM6meRhVnuxiijpgc1_2XcMb9Gh660H5HEknLGskzkx9L81bbOM651BUVAzu2u6bf36gf5r2x3ndhltKVFZAforGzT-dQhny2-zEk3cih03DU1pfyRFiJLlNXuv_Ml-glQC1dGl95L1KpYHBXnMOfXZwfd4bWGaUH3uel/s1600/chrome.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
+    "contentSnippet": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
+    "guid": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+    "isoDate": "2026-01-16T14:09:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
-    "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
-    "pubDate": "Fri, 16 Jan 2026 00:49:54 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The startup claims its AI platform can help optimize editorial processes and research. ",
-    "contentSnippet": "The startup claims its AI platform can help optimize editorial processes and research.",
-    "guid": "https://techcrunch.com/?p=3083269",
-    "categories": [
-      "AI",
-      "Startups",
-      "artificial intelligence",
-      "In Brief",
-      "Rupert Murdoch",
-      "Symbolic"
-    ],
-    "isoDate": "2026-01-16T00:49:54.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Your Digital Footprint Can Lead Right to Your Front Door",
+    "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
+    "pubDate": "Fri, 16 Jan 2026 16:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_20kAAwaCZD2Lh6-cSZ4bMJ5QJq16p3GRg-tw994MYxsXjW6EikJ7cJbFhb-I6H3hZQRN0blLVlY_zd1993WBJixaFKtO0eXeskqu6HKzE25lZWtfHQckAbh-doxDoBQkcuEazU3GkBSXWP-uNKXvjXdK9NSAGo_BEOPYD7vntOgaSAjVuRI0_lOSwRU/s1600/Incogni.jpg"
+    },
+    "content": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
+    "contentSnippet": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
+    "guid": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
+    "isoDate": "2026-01-16T10:42:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Russell Brandom",
-    "title": "The AI lab revolving door spins ever faster",
-    "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-    "pubDate": "Thu, 15 Jan 2026 22:04:02 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "AI labs just can't get their employees to stay put. Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab. ",
-    "contentSnippet": "AI labs just can't get their employees to stay put. Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
-    "guid": "https://techcrunch.com/?p=3083248",
-    "categories": [
-      "AI",
-      "In Brief",
-      "Mira Murati",
-      "OpenAI",
-      "Thinking Machines"
-    ],
-    "isoDate": "2026-01-15T22:04:02.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
+    "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
+    "pubDate": "Fri, 16 Jan 2026 15:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVK3A2yZNeTmDZQnzYo5bTA8R87lnRUIqYSSxOoyKUkAqFH97mjhNJ2LiAT64bsC9ExwqhQnDHhAfs5RJUIUbPGPp5E7h-L3efaT-216BWjYgGsZfZbe46N3BaIR7pxOusAcaJV7a9HHm6RyV3ZAvuz9ECIJPnBnrCuXimEH___3cbJkTefgy8dtfPx9mE/s1600/policy-malware.jpg"
+    },
+    "content": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
+    "contentSnippet": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
+    "guid": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
+    "isoDate": "2026-01-16T10:27:00.000Z",
+    "itunes": {}
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "Taiwan to invest $250B in US semiconductor manufacturing",
-    "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
-    "pubDate": "Thu, 15 Jan 2026 20:52:44 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing. ",
-    "contentSnippet": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
-    "guid": "https://techcrunch.com/?p=3083221",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "In Brief",
-      "semiconductor tariffs",
-      "semiconductors",
-      "taiwan",
-      "Tariffs",
-      "Trump Administration"
-    ],
-    "isoDate": "2026-01-15T20:52:44.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
+    "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
+    "pubDate": "Fri, 16 Jan 2026 12:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9UdFF7GIb9sKuDwjd_5b2PQvzSOUTH-7rbAWmB4O8ZeJsf_zqM3Es_xfsXQ23jfQQL8rT7FbClxATKW87Z04pIeW04H-FEX0JQkFLmTZCABSpKwvd26jSWc9-h3sKG_1RxN_DdZjNhgoa0QJv-wxVJJ2ngOqYQIK2i-EfELxa88IOGN71kqw2tow8A2ga/s1600/sitecore.jpg"
+    },
+    "content": "A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.\nCisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.",
+    "contentSnippet": "A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.\nCisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.",
+    "guid": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
+    "isoDate": "2026-01-16T07:18:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
+    "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+    "pubDate": "Fri, 16 Jan 2026 11:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhi1mo3JJ4SVSswb-QR3VpYd-cBKzSU_dKtLhngGvo0GRALzIlSbBqXAaMCfGGoqiuqjDFjaF61Eh5wh8oVzHyxgaBQyzDLLw9kFM3euSDNe87Ezsb_K87GuquNG-DrRb5pH9Zsmu1wjAmqzvkSdoG4NhaHKpYubjhscJyfBPx6wIATz8wsaon-I-vwE/s1600/cisco.jpg"
+    },
+    "content": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.\nThe vulnerability, tracked as CVE-2025-20393 (CVSS",
+    "contentSnippet": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.\nThe vulnerability, tracked as CVE-2025-20393 (CVSS",
+    "guid": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+    "isoDate": "2026-01-16T05:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+    "pubDate": "Fri, 16 Jan 2026 01:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg"
+    },
+    "content": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
+    "contentSnippet": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
+    "guid": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+    "isoDate": "2026-01-15T19:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+    "pubDate": "Thu, 15 Jan 2026 21:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg"
+    },
+    "content": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+    "contentSnippet": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+    "guid": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+    "isoDate": "2026-01-15T15:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+    "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+    "pubDate": "Thu, 15 Jan 2026 20:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+    "guid": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+    "isoDate": "2026-01-15T15:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+    "pubDate": "Thu, 15 Jan 2026 19:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg"
+    },
+    "content": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
+    "contentSnippet": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
+    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+    "isoDate": "2026-01-15T13:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
+    "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+    "pubDate": "Thu, 15 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
+    },
+    "content": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+    "contentSnippet": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+    "guid": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+    "isoDate": "2026-01-15T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+    "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+    "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
+    },
+    "content": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+    "contentSnippet": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+    "guid": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+    "isoDate": "2026-01-15T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+    "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+    "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
+    },
+    "content": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+    "contentSnippet": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+    "guid": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+    "isoDate": "2026-01-15T09:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+    "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+    "pubDate": "Thu, 15 Jan 2026 13:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
+    },
+    "content": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+    "contentSnippet": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+    "guid": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+    "isoDate": "2026-01-15T08:18:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+    "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+    "pubDate": "Thu, 15 Jan 2026 00:33:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8LcAq2Eh4FGdeubIWyG99KZTiImVy-_8pLP_ooz55oOJQbiUnFXUS8yQ9Zg_XOj1eqw-qCII4_ZeoQqYlCou4ELHCWcqE1Fkkpr7y0CiCV0phTdYcTxGB-Q66Vjedk9f5svf8bB3eGyGVvI-iYmAZhGsDuJujVaAY9tsjsJ5xDjIJabN_4MagL4jnG63/s1600/sep.jpg"
+    },
+    "content": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
+    "contentSnippet": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
+    "guid": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+    "isoDate": "2026-01-14T19:03:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "AI Agents Are Becoming Authorization Bypass Paths",
+    "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+    "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-WeRkxqHYVKqOELWCDkbIiI6lTEWqGIAkOQlI3kVCdVPQtCyH3kOcBXxxscPd6Hj0V4xyKku6WmGYKhyphenhyphenYxRP_d4lzh4ddOwG0ySAz6zQQoNGiacBA4jKuvoNRqA1ChEFjekiSQZsmH6hKo-GQhXK6hyphenhyphenrk4jE50dWybCMTS_Dahxvv6WbEYeA6F0A1s/s1600/ai-agent-wing.jpg"
+    },
+    "content": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&rsquo;t just suggest, but act. Agents",
+    "contentSnippet": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don’t just suggest, but act. Agents",
+    "guid": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+    "isoDate": "2026-01-14T15:07:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+    "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+    "pubDate": "Wed, 14 Jan 2026 19:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpmrWdjziw_EBxzQs9lPcsMwRp6OICCFmo0QhzZoHdyE5WgEjcM2Y90QbmkJegSh19-ho2EsdkKwoEVKiSnM1ODN-8e5XJrw1cgjUHGm_ZAM6pYLaHSHa8TTJA8-ALLBty_JtK073FvqZFSjnuW7cEFGXNDQrGL12QRsuGJUl0Oc2QzoM-aMBVCatJLjc/s1600/cert.jpg"
+    },
+    "content": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.\n\"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
+    "contentSnippet": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.\n\"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
+    "guid": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+    "isoDate": "2026-01-14T14:18:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+    "pubDate": "Wed, 14 Jan 2026 17:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s1600/fort.jpg"
+    },
+    "content": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
+    "contentSnippet": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
+    "guid": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+    "isoDate": "2026-01-14T11:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
+    "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
+    "pubDate": "Wed, 14 Jan 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NXMxDA7kwnpve46qU_R-VOm0ixNMNXzSqO-JhkwA4DyYfCsqmqGABQ8KKee0ua43Va7twnJrrqp-6hztmRvDJCFv7o_kd7ozx9BqBeUvHPybqf8Ja2PcSNLFddsgRcWtI9mlvzsr2dooslCd7HaGMpkPrMZVbWBIXpYpHsodtRB7XG-c_YmI6DNAmZlX/s1600/reflectiz.jpg"
+    },
+    "content": "Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024.&nbsp;\nGovernment sector malicious activity spiked from 2% to 12.9%, while 1 in 7 Education sites show active compromise.\nSpecific offenders: Google Tag Manager (8% of violations), Shopify (5%), Facebook Pixel (4%).\n\nDownload the",
+    "contentSnippet": "Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024. \nGovernment sector malicious activity spiked from 2% to 12.9%, while 1 in 7 Education sites show active compromise.\nSpecific offenders: Google Tag Manager (8% of violations), Shopify (5%), Facebook Pixel (4%).\n\nDownload the",
+    "guid": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
+    "isoDate": "2026-01-14T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
+    "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
+    "pubDate": "Wed, 14 Jan 2026 15:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1UzTU9iJxk97BH-xsazSYv5S_gP8HFp479Wqwm0Ymvk5m75SNtzqiQqEpXQAyhENUGfRtp8imo96TaRdXSfRrBpbnBtsWFOoYApGx_vghD9mn1aHaswGlIwBh-_loU9jS9WKGuWDI1PryeE_RHDCOAEIFRzO3Pob5LO_BqIZz-bWW0sGWlOVWQbIzZlL/s1600/ms.jpg"
+    },
+    "content": "Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.\nOf the 114 flaws, eight are rated Critical, and 106 are rated Important in severity. As many as 58 vulnerabilities have been classified as privilege escalation, followed by 22 information disclosure, 21 remote code",
+    "contentSnippet": "Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.\nOf the 114 flaws, eight are rated Critical, and 106 are rated Important in severity. As many as 58 vulnerabilities have been classified as privilege escalation, followed by 22 information disclosure, 21 remote code",
+    "guid": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
+    "isoDate": "2026-01-14T09:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
+    "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+    "pubDate": "Wed, 14 Jan 2026 12:35:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
+    },
+    "content": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+    "contentSnippet": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+    "guid": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+    "isoDate": "2026-01-14T07:05:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+    "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+    "pubDate": "Wed, 14 Jan 2026 11:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
+    },
+    "content": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+    "contentSnippet": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+    "guid": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+    "isoDate": "2026-01-14T05:48:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
+    "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
+    "pubDate": "Tue, 13 Jan 2026 23:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png"
+    },
+    "content": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
+    "contentSnippet": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
+    "guid": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
+    "isoDate": "2026-01-13T17:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+    "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+    "pubDate": "Tue, 13 Jan 2026 22:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
+    "guid": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+    "isoDate": "2026-01-13T17:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+    "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+    "pubDate": "Tue, 13 Jan 2026 19:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg"
+    },
+    "content": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
+    "contentSnippet": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
+    "guid": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+    "isoDate": "2026-01-13T13:44:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+    "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+    "pubDate": "Tue, 13 Jan 2026 17:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+    "guid": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+    "isoDate": "2026-01-13T11:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+    "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+    "pubDate": "Tue, 13 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg"
+    },
+    "content": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
+    "contentSnippet": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
+    "guid": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+    "isoDate": "2026-01-13T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+    "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+    "pubDate": "Tue, 13 Jan 2026 17:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
+    },
+    "content": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
+    "contentSnippet": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
+    "guid": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+    "isoDate": "2026-01-13T11:47:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+    "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+    "pubDate": "Tue, 13 Jan 2026 14:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+    "guid": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+    "isoDate": "2026-01-13T09:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
+    "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+    "pubDate": "Tue, 13 Jan 2026 12:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
+    "guid": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+    "isoDate": "2026-01-13T07:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+    "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+    "pubDate": "Mon, 12 Jan 2026 22:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg"
+    },
+    "content": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+    "contentSnippet": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+    "guid": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+    "isoDate": "2026-01-12T16:39:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+    "pubDate": "Mon, 12 Jan 2026 19:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVi5U23T5vEL_B7kuk04RaGFSI7zFo33wLIli8_c9AxYxC3vY7UHsazm7yFaXzX8nYGa5Ffgrv4zChIoNUV2zSRusLa2cCZHs95p_JFTJGUr11v3BWAdckcv-BzKEBi6rnO2KrdvyQnW-IiAetHbJ73B2SXsVlQH-LyVo_fWw1J-avBbsUteP6FjWf1C5x/s1600/reacap.jpg"
+    },
+    "content": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+    "contentSnippet": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+    "guid": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+    "isoDate": "2026-01-12T13:41:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+    "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+    "pubDate": "Mon, 12 Jan 2026 16:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg"
+    },
+    "content": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
+    "contentSnippet": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
+    "guid": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+    "isoDate": "2026-01-12T10:48:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+    "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+    "pubDate": "Mon, 12 Jan 2026 14:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg"
+    },
+    "content": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
+    "contentSnippet": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
+    "guid": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+    "isoDate": "2026-01-12T08:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+    "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+    "pubDate": "Mon, 12 Jan 2026 13:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyKVtigWO-DozabIH5s8zl3i7M9z2LC95xA87vaakxWs8JFZrEEeGwievwIgbry0kWZ93VfzSfbvhdFXo1FN8p_nIZf0DsILlsD1oNlqOuMvsNIHVq3YVIe2NzW8CYQ2VVC63nnEJK_m74PGZkEGWyrBAcihNfuSWgsQV6YNumesUqSp5a149kt9v3sjF/s1600/sites.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+    "contentSnippet": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+    "guid": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+    "isoDate": "2026-01-12T07:34:00.000Z",
+    "itunes": {}
   }
 ]
