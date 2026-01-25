@@ -1,1 +1,454 @@
-{}
+{
+  "output": [
+    {
+      "title": "Serve Robotics Acquires Hospital Assistant Robot Company",
+      "link": "https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company",
+      "description": null,
+      "pubDate": "Fri, 23 Jan 2026 18:12:04 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.482+05:30"
+    },
+    {
+      "title": "VoiceRun Raises $5.5M for Full-Stack Voice AI Platform",
+      "link": "https://aibusiness.com/agentic-ai/voicerun-startup-full-stack-voice-ai-platform",
+      "description": null,
+      "pubDate": "Fri, 23 Jan 2026 01:12:05 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.487+05:30"
+    },
+    {
+      "title": "Enterprises Should Prioritize Governance Amid Agentic AI Boom",
+      "link": "https://aibusiness.com/agentic-ai/enterprises-should-prioritize-governance-amid-agentic-ai-boom",
+      "description": null,
+      "pubDate": "Fri, 23 Jan 2026 00:45:26 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.489+05:30"
+    },
+    {
+      "title": "AI Startups Merge to Launch First Full-Stack AI Cloud",
+      "link": "https://aibusiness.com/data-centers/ai-startups-merge-full-stack-ai-cloud",
+      "description": null,
+      "pubDate": "Thu, 22 Jan 2026 20:44:12 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.492+05:30"
+    },
+    {
+      "title": "Anthropic Aims for Transparency With Claude Constitution",
+      "link": "https://aibusiness.com/responsible-ai/anthropic-aims-for-transparency-with-constitution",
+      "description": null,
+      "pubDate": "Thu, 22 Jan 2026 14:36:20 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.493+05:30"
+    },
+    {
+      "title": "Humans&amp; Raises $480M to Build Human-Centric AI Tools",
+      "link": "https://aibusiness.com/agentic-ai/startup-human-centric-ai-tools",
+      "description": null,
+      "pubDate": "Thu, 22 Jan 2026 13:46:05 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.495+05:30"
+    },
+    {
+      "title": "OpenAI Targets Monetization, $1.4T Commitments by 2034",
+      "link": "https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034",
+      "description": null,
+      "pubDate": "Wed, 21 Jan 2026 16:43:08 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.496+05:30"
+    },
+    {
+      "title": "OpenAI Expands Cheap ChatGPT Tier; Ads Coming Soon",
+      "link": "https://aibusiness.com/foundation-models/cheap-chatgpt-tier-month-ads-coming-soon",
+      "description": null,
+      "pubDate": "Tue, 20 Jan 2026 22:39:13 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.497+05:30"
+    },
+    {
+      "title": "OpenAI, ServiceNow Enter Into Strategic Multiyear Partnership",
+      "link": "https://aibusiness.com/generative-ai/openai-servicenow-enter-into-multiyear-partnership",
+      "description": null,
+      "pubDate": "Tue, 20 Jan 2026 22:37:53 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.499+05:30"
+    },
+    {
+      "title": "Wikipedia Parent Announces AI Deal with Amazon, Meta, Perplexity",
+      "link": "https://aibusiness.com/foundation-models/wikipedia-ai-deal-amazon-meta-perplexity",
+      "description": null,
+      "pubDate": "Tue, 20 Jan 2026 21:54:41 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.500+05:30"
+    },
+    {
+      "title": "How AI is Reducing the Administrative Burden in Sales",
+      "link": "https://aibusiness.com/generative-ai/how-ai-is-reducing-the-administrative-burden-in-sales",
+      "description": null,
+      "pubDate": "Tue, 20 Jan 2026 19:28:33 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.501+05:30"
+    },
+    {
+      "title": "Gemini Can Scour Apps to Deliver 'Personal Intelligence'",
+      "link": "https://aibusiness.com/agentic-ai/gemini-scours-apps-personal-intelligence",
+      "description": null,
+      "pubDate": "Fri, 16 Jan 2026 21:58:10 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.503+05:30"
+    },
+    {
+      "title": "Cerebras Poses an Alternative to Nvidia With $10B OpenAI Deal",
+      "link": "https://aibusiness.com/generative-ai/cerebras-poses-an-alternative-to-nvidia",
+      "description": null,
+      "pubDate": "Thu, 15 Jan 2026 22:17:56 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.504+05:30"
+    },
+    {
+      "title": "AI Startup That Builds a Brain for Robots Valued at $14 Billion",
+      "link": "https://aibusiness.com/robotics/skild-ai-startup-builds-robot-brain",
+      "description": null,
+      "pubDate": "Thu, 15 Jan 2026 21:16:00 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.505+05:30"
+    },
+    {
+      "title": "Humanoid Robot Actuator Market Could Approach $10B by 2031",
+      "link": "https://aibusiness.com/robotics/humanoid-robot-actuator-market-2031",
+      "description": null,
+      "pubDate": "Thu, 15 Jan 2026 18:40:28 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.506+05:30"
+    },
+    {
+      "title": "Tech Giants, Thomson Reuters Form Alliance to Advance Trust in AI",
+      "link": "https://aibusiness.com/explainable-ai/tech-giants-thomson-reuters-alliance-ai-trust",
+      "description": null,
+      "pubDate": "Wed, 14 Jan 2026 22:01:56 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.507+05:30"
+    },
+    {
+      "title": "Phenom's Acquisition: AI, Automation and the Future of Work",
+      "link": "https://aibusiness.com/agentic-ai/phenom-s-acquisition-ai-automation-work",
+      "description": null,
+      "pubDate": "Wed, 14 Jan 2026 20:50:21 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.509+05:30"
+    },
+    {
+      "title": "Salesforce Recasts Slackbot as a Personal AI Agent for Work",
+      "link": "https://aibusiness.com/agentic-ai/salesforce-updates-slack-for-ai-era",
+      "description": null,
+      "pubDate": "Tue, 13 Jan 2026 23:32:07 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.510+05:30"
+    },
+    {
+      "title": "Arm Launches Physical AI Unit",
+      "link": "https://aibusiness.com/robotics/arm-launches-physical-ai-unit",
+      "description": null,
+      "pubDate": "Tue, 13 Jan 2026 23:20:21 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.511+05:30"
+    },
+    {
+      "title": "Anthropic Introduces Claude Cowork",
+      "link": "https://aibusiness.com/agentic-ai/anthropic-introduces-claude-cowork",
+      "description": null,
+      "pubDate": "Tue, 13 Jan 2026 22:56:19 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.512+05:30"
+    },
+    {
+      "title": "Meta Launches Meta Compute to Build out AI Architecture",
+      "link": "https://aibusiness.com/data-centers/meta-compute-ai-architecture",
+      "description": null,
+      "pubDate": "Tue, 13 Jan 2026 19:26:19 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.514+05:30"
+    },
+    {
+      "title": "Google's Universal Commerce Protocol Drives AI Shopping",
+      "link": "https://aibusiness.com/agentic-ai/google-s-universal-commerce-protocol",
+      "description": null,
+      "pubDate": "Mon, 12 Jan 2026 21:33:26 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.515+05:30"
+    },
+    {
+      "title": "Apple to Overhaul AI Efforts, Siri With Google Gemini",
+      "link": "https://aibusiness.com/speech-recognition/apple-taps-google-gemini-siri",
+      "description": null,
+      "pubDate": "Mon, 12 Jan 2026 21:11:04 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.516+05:30"
+    },
+    {
+      "title": "OpenAI, SoftBank Invest $1B in SB Energy as AI Buildout Continues",
+      "link": "https://aibusiness.com/data-centers/openai-softbank-sb-energy-ai-buildouts",
+      "description": null,
+      "pubDate": "Mon, 12 Jan 2026 20:08:53 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.517+05:30"
+    },
+    {
+      "title": "Meta Signs Deals With Nuclear Energy Companies",
+      "link": "https://aibusiness.com/data-centers/meta-signs-deals-with-nuclear-companies",
+      "description": null,
+      "pubDate": "Fri, 09 Jan 2026 22:39:18 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.518+05:30"
+    },
+    {
+      "title": "Infosys, AWS Partner on Enterprise AI",
+      "link": "https://aibusiness.com/agentic-ai/infosys-aws-partner-enterprise-ai",
+      "description": null,
+      "pubDate": "Fri, 09 Jan 2026 22:16:37 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.519+05:30"
+    },
+    {
+      "title": "Siemens Unveils Tech Pipeline to Accelerate Industrial AI",
+      "link": "https://aibusiness.com/industrial-manufacturing/siemens-unveils-tech-pipeline-for-industrial-ai",
+      "description": null,
+      "pubDate": "Fri, 09 Jan 2026 16:35:59 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.521+05:30"
+    },
+    {
+      "title": "Synopsys Targets Automotive With AI, Software Push at CES",
+      "link": "https://aibusiness.com/intelligent-automation/synopsys-targets-automotive-ai-software",
+      "description": null,
+      "pubDate": "Fri, 09 Jan 2026 00:47:40 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.522+05:30"
+    },
+    {
+      "title": "Google Updates Gmail With Suite of AI Tools",
+      "link": "https://aibusiness.com/generative-ai/google-updates-gmail-with-ai",
+      "description": null,
+      "pubDate": "Thu, 08 Jan 2026 18:54:01 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.523+05:30"
+    },
+    {
+      "title": "Hyundai Reveals AI Robotics Roadmap at CES",
+      "link": "https://aibusiness.com/intelligent-automation/hyundai-reveals-ai-robotics-roadmap-ces",
+      "description": null,
+      "pubDate": "Thu, 08 Jan 2026 15:15:59 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.524+05:30"
+    },
+    {
+      "title": "Boston Dynamics Unveils Humanoid Robot Atlas at CES",
+      "link": "https://aibusiness.com/robotics/boston-dynamics-unveils-humanoid-robot-atlas",
+      "description": null,
+      "pubDate": "Wed, 07 Jan 2026 22:34:41 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.525+05:30"
+    },
+    {
+      "title": "Mobileye to Acquire Mentee Robotics in $900M Deal",
+      "link": "https://aibusiness.com/intelligent-automation/mobileye-acquires-mentee-robotics",
+      "description": null,
+      "pubDate": "Wed, 07 Jan 2026 22:13:26 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.526+05:30"
+    },
+    {
+      "title": "Another $20B in Funding for Musk's xAI, Despite Grok Controversy",
+      "link": "https://aibusiness.com/data-centers/xai-new-funding-round-despite-grok-controversy",
+      "description": null,
+      "pubDate": "Wed, 07 Jan 2026 13:30:22 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.528+05:30"
+    },
+    {
+      "title": "Nvidia's AI Driving Tech to Debut in Mercedes CLA in 2026",
+      "link": "https://aibusiness.com/intelligent-automation/nvidia-s-ai-driving-tech-debuts-in-mercedes-cla-by-2026",
+      "description": null,
+      "pubDate": "Tue, 06 Jan 2026 22:05:49 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.529+05:30"
+    },
+    {
+      "title": "Nvidia Launches Physical AI Models for Robots",
+      "link": "https://aibusiness.com/robotics/nvidia-launches-physical-ai-models",
+      "description": null,
+      "pubDate": "Tue, 06 Jan 2026 18:34:27 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.531+05:30"
+    },
+    {
+      "title": "AMD Competes With Intel With New AI Chips",
+      "link": "https://aibusiness.com/consumer-tech/amd-competes-with-intel-with-new-ai-chips",
+      "description": null,
+      "pubDate": "Tue, 06 Jan 2026 17:21:03 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.532+05:30"
+    },
+    {
+      "title": "HP's New Keyboard Gives New Meaning to All-in-One",
+      "link": "https://aibusiness.com/consumer-tech/hp-s-new-keyboard-gives-new-meaning-to-all-in-one",
+      "description": null,
+      "pubDate": "Tue, 06 Jan 2026 15:21:44 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.533+05:30"
+    },
+    {
+      "title": "Nvidia Intros Six New AI Chips and New Open Models",
+      "link": "https://aibusiness.com/generative-ai/nvidia-intros-new-ai-chips-and-open-models",
+      "description": null,
+      "pubDate": "Mon, 05 Jan 2026 23:58:30 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.534+05:30"
+    },
+    {
+      "title": "10 AI Predictions for 2026",
+      "link": "https://aibusiness.com/generative-ai/10-ai-predictions-2026",
+      "description": null,
+      "pubDate": "Mon, 05 Jan 2026 19:43:38 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.535+05:30"
+    },
+    {
+      "title": "When AI-Powered Humanoid Robots Make Bad Choices",
+      "link": "https://aibusiness.com/robotics/when-humanoid-robots-make-bad-choices",
+      "description": null,
+      "pubDate": "Mon, 05 Jan 2026 19:20:54 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.536+05:30"
+    },
+    {
+      "title": "The Shift Toward AI Data Quality as a Core Product",
+      "link": "https://aibusiness.com/generative-ai/the-shift-towards-ai-data-quality",
+      "description": null,
+      "pubDate": "Mon, 05 Jan 2026 16:44:45 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.537+05:30"
+    },
+    {
+      "title": "Opinion: Work With – Not Against – Shadow AI",
+      "link": "https://aibusiness.com/responsible-ai/work-with-not-against-shadow-ai",
+      "description": null,
+      "pubDate": "Mon, 05 Jan 2026 15:17:37 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.539+05:30"
+    },
+    {
+      "title": "New York Signs off on AI Safety Legislation",
+      "link": "https://aibusiness.com/ai-policy/new-york-signs-ai-safety-legislation",
+      "description": null,
+      "pubDate": "Tue, 23 Dec 2025 15:30:34 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.540+05:30"
+    },
+    {
+      "title": "x402 Aims to Enable Agentic Payments With Digital Dollars",
+      "link": "https://aibusiness.com/agentic-ai/x402-agentic-payments-digital-dollars",
+      "description": null,
+      "pubDate": "Mon, 22 Dec 2025 18:21:51 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.541+05:30"
+    },
+    {
+      "title": "AI Coding Startup Lovable Now Valued at $6.6B",
+      "link": "https://aibusiness.com/generative-ai/ai-coding-startup-lovable-series-b",
+      "description": null,
+      "pubDate": "Mon, 22 Dec 2025 17:42:02 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.542+05:30"
+    },
+    {
+      "title": "University Researchers Debut Tiny Programmable Robots",
+      "link": "https://aibusiness.com/robotics/university-researchers-debut-world-s-smallest-programmable-robots",
+      "description": null,
+      "pubDate": "Fri, 19 Dec 2025 22:06:57 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.543+05:30"
+    },
+    {
+      "title": "Salesforce Buys Qualified in Agentic Marketing Push",
+      "link": "https://aibusiness.com/agentic-ai/salesforce-buys-qualified-in-agentic-marketing-push",
+      "description": null,
+      "pubDate": "Thu, 18 Dec 2025 22:19:23 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.545+05:30"
+    },
+    {
+      "title": "Anthropic Launches Skills Open Standard for Claude",
+      "link": "https://aibusiness.com/foundation-models/anthropic-launches-skills-open-standard-claude",
+      "description": null,
+      "pubDate": "Thu, 18 Dec 2025 17:50:43 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.546+05:30"
+    },
+    {
+      "title": "Google Releases Gemini 3 Flash Aimed at Enterprises",
+      "link": "https://aibusiness.com/foundation-models/google-releases-gemini-3-flash-model-enterprise",
+      "description": null,
+      "pubDate": "Thu, 18 Dec 2025 17:18:03 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.548+05:30"
+    },
+    {
+      "title": "OpenAI Updates ChatGPT Images Tool",
+      "link": "https://aibusiness.com/generative-ai/openai-updates-chatgpt-images-tool",
+      "description": null,
+      "pubDate": "Wed, 17 Dec 2025 16:58:29 GMT",
+      "author": "Unknown",
+      "categories": [],
+      "fetched_at": "2026-01-24T11:59:51.549+05:30"
+    }
+  ]
+}
