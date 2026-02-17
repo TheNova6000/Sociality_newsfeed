@@ -2139,7 +2139,35 @@
     "url": "https://internationalconferencealerts.com/eventdetails.php?id=100360525",
     "description": "The aim of the Conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet the share cuttingedge development in the field.",
     "category": "Events in India related to Sports",
-    "fetchedAt": "2026-02-13T00:00:50.502+05:30"
+    "fetchedAt": "2026-02-14T00:00:49.678+05:30"
+  },
+  {
+    "title": "OpenAI GPT-5.3-Codex-Spark Shows What's Possible With Cerebras",
+    "url": "https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras",
+    "description": "The vendor designed the model for real-time coding. While limited, it shows the possibilities that can arise when an AI vendor chooses a hardware vendor other than Nvidia.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "New Waymo Robotaxi now Running Fully Autonomously on US Roads",
+    "url": "https://aibusiness.com/generative-ai/new-waymo-robotaxi-now-running-fully-autonomously-on-us-roads",
+    "description": "The autonomous vehicle vendor said it is expanding rapidly into new urban markets.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "Anthropic Raises $30B, Bringing its Valuation to $380B",
+    "url": "https://aibusiness.com/generative-ai/anthropic-raises-30b-bringing-valuation-to-380b",
+    "description": "The new financing is the latest volley in the increasingly hard-fought war with the vendor's chief rival, OpenAI.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "Meet Latam-GPT, the new Open Source AI Model for Latin America",
+    "url": "https://aibusiness.com/generative-ai/the-new-open-source-ai-model-for-latin-america",
+    "description": "The model is part of a move toward regional and national development of AI technology.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
   },
   {
     "title": "ElevenLabs Insures Agents, Targeting Enterprises' Fears",
@@ -2460,34 +2488,6 @@
     "title": "OpenAI Expands Cheap ChatGPT Tier; Ads Coming Soon",
     "url": "https://aibusiness.com/foundation-models/cheap-chatgpt-tier-month-ads-coming-soon",
     "description": "OpenAI is evolving ChatGPT as it looks for ways to boost revenue while ensuring ad-free options for premium users.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "OpenAI, ServiceNow Enter Into Strategic Multiyear Partnership",
-    "url": "https://aibusiness.com/generative-ai/openai-servicenow-enter-into-multiyear-partnership",
-    "description": "The partnership reflects OpenAI's broader strategy to establish itself in the enterprise IT market by collaborating with major providers, while embedding its technology in their products without direct sales.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Wikipedia Parent Announces AI Deal with Amazon, Meta, Perplexity",
-    "url": "https://aibusiness.com/foundation-models/wikipedia-ai-deal-amazon-meta-perplexity",
-    "description": "Under the deal, tech vendors are paying to access Wikimedia's data to train and develop their large language models.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "How AI is Reducing the Administrative Burden in Sales",
-    "url": "https://aibusiness.com/generative-ai/how-ai-is-reducing-the-administrative-burden-in-sales",
-    "description": "Sales teams are using generative AI to reduce the time they spend on administrative tasks, enabling sales associates to focus on their core responsibilities.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Gemini Can Scour Apps to Deliver 'Personal Intelligence'",
-    "url": "https://aibusiness.com/agentic-ai/gemini-scours-apps-personal-intelligence",
-    "description": "The new feature works across Gmail, Photos, YouTube and Search to answer a user's questions.",
     "category": "AI News",
     "fetchedAt": "https://aibusiness.com/"
   }
