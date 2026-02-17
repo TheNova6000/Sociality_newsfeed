@@ -1419,5 +1419,362 @@
     "description": "The general purpose agent is intended as a more accessible version of the company's Claude Code.",
     "category": [],
     "fetchedAt": "2026-02-09T09:00:28.621+05:30"
+  },
+  {
+    "title": "International Conference on Sports Technology for Injury Prevention and Rehabilitation",
+    "url": "https://internationalconferencealerts.com/eventdetails.php?id=100360525",
+    "description": "",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:32.156+05:30"
+  },
+  {
+    "title": "Startup Introduces 'Large Tabular Model' for Spreadsheet Data",
+    "url": "https://aibusiness.com/foundation-models/startup-large-tabular-model-spreadsheet-data",
+    "description": "The company's AI tool was built to make sense of structured data, an area where large language models struggle.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.312+05:30"
+  },
+  {
+    "title": "AI Lawsuits in 2026: Settlements, Licensing Deals, Litigation",
+    "url": "https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation",
+    "description": "The outlook for AI lawsuits in 2026 is still unclear. While there could be more settlements, the debate over fair use and copyright infringement will likely remain unresolved.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.313+05:30"
+  },
+  {
+    "title": "OpenAI's Latest Platform Targets Enterprise Customers",
+    "url": "https://aibusiness.com/agentic-ai/openai-s-latest-platform-targets-enterprise-customers",
+    "description": "The company said it developed the platform to address a growing enterprise challenge: While individual AI agents improve efficiency, they need to work more effectively across the business.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.314+05:30"
+  },
+  {
+    "title": "Enterprises Don't Care About Anthropic's Super Bowl Ad",
+    "url": "https://aibusiness.com/generative-ai/enterprises-don-t-care-about-super-bowl-ad",
+    "description": "The Claude creator's commercial pokes fun at the ChatGPT maker, which will air its own ad. The TV spot amps up the war in the enterprise AI market.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.315+05:30"
+  },
+  {
+    "title": "Robotaxi Leader Waymo Confirms $16B Funding Round",
+    "url": "https://aibusiness.com/iot/robotaxi-leader-waymo-confirms-16b-funding-round",
+    "description": "The robotaxi pioneer, which is owned by Google parent Alphabet, has expanded dramatically in the past couple of years and now offers driverless cabs in locations across the U.S.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.315+05:30"
+  },
+  {
+    "title": "Opinion Divided on Moltbook Social Network for AI Agents",
+    "url": "https://aibusiness.com/agentic-ai/opinion-divided-on-moltbook-social-network",
+    "description": "The AI Agent-Only web gathering spot is attracting ridicule, and fascination.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.316+05:30"
+  },
+  {
+    "title": "Panic Rises in Legal Industry Due to Anthropic’s AI Plugins",
+    "url": "https://aibusiness.com/agentic-ai/panic-rises-in-legal-industry-due-to-anthropic-s-ai-plugins",
+    "description": "The concern arises as plugins demonstrate how a general-purpose AI model provider can compete with domain-specific tech vendors and raise questions about the technology's potential impact on workers.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.317+05:30"
+  },
+  {
+    "title": "Nvidia, Dassault Systèmes to Build Industrial AI Platform",
+    "url": "https://aibusiness.com/industrial-manufacturing/nvidia-dassault-build-industrial-ai-platform",
+    "description": "The platform will offer companies high-quality simulations to &quot;transform&quot; how industries are built from the ground up.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.318+05:30"
+  },
+  {
+    "title": "Claude Plots a Route for NASA Rover on Mars",
+    "url": "https://aibusiness.com/foundation-models/claude-plots-route-nasa-mars-rover",
+    "description": "The 400-meter excursion across rugged Martian terrain, which took place in December, constituted the first time NASA has used an AI model to determine a path for its Perseverance Rover on the Red Planet.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.318+05:30"
+  },
+  {
+    "title": "Change is Coming to xAI After Musk Merges it with SpaceX",
+    "url": "https://aibusiness.com/generative-ai/change-is-coming-to-xai-with-spacex",
+    "description": "The move could be an attempt by Musk to prop up xAI's standing with competitors, or a redirection for the AI vendor.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.319+05:30"
+  },
+  {
+    "title": "Snowflake Deal Latest Move into Enterprise Market by OpenAI",
+    "url": "https://aibusiness.com/generative-ai/snowflake-deal-latest-move-by-openai",
+    "description": "The agreement allows OpenAI to place renewed emphasis on its models in the enterprise and provides Snowflake with a differentiating selling point for customers.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.320+05:30"
+  },
+  {
+    "title": "Combatting Cultural Bias in the Translation of AI Models",
+    "url": "https://aibusiness.com/responsible-ai/combatting-cultural-bias-in-the-translation-of-ai-models",
+    "description": "Although model providers are introducing translation models, much still needs to be done to ensure they accurately capture cultural nuances.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.321+05:30"
+  },
+  {
+    "title": "New York Robotics Consortium Launches with 160 Startups",
+    "url": "https://aibusiness.com/robotics/new-york-robotics-consortium-launches-160-startups",
+    "description": "The news comes as the state works to place itself as a serious contender in the global robotics race.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.322+05:30"
+  },
+  {
+    "title": "Process Mining Matures in the Age of Generative AI",
+    "url": "https://aibusiness.com/intelligent-automation/process-mining-matures-in-the-age-of-generative-ai",
+    "description": "Process mining software started out as an analytical and diagnostic tool and is now fully incorporating AI agents and assistants to automate tasks such as real-time customer communication.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.322+05:30"
+  },
+  {
+    "title": "ServiceNow and Anthropic Disclose AI Deal",
+    "url": "https://aibusiness.com/agentic-ai/servicenow-and-anthropic-ai-deal",
+    "description": "With the partnership, Anthropic moves deeper into the enterprise AI market.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.323+05:30"
+  },
+  {
+    "title": "Apple Acquires Israeli Startup Q.AI",
+    "url": "https://aibusiness.com/consumer-tech/apple-acquires-israeli-startup-qai",
+    "description": "While financial details were not disclosed, the deal is being characterized as Apple's &quot;second largest acquisition in history.&quot;",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.324+05:30"
+  },
+  {
+    "title": "Google DeepMind Introduces Agentic Vision to Gemini 3 Flash",
+    "url": "https://aibusiness.com/image-recognition/google-deepmind-agentic-vision-gemini-3-flash",
+    "description": "The new capabilities combine visual reasoning with Python code to improve image analysis and enable active investigations.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.325+05:30"
+  },
+  {
+    "title": "Google's AI-Powered Chrome Further Transforms Search",
+    "url": "https://aibusiness.com/agentic-ai/google-s-ai-powered-chrome",
+    "description": "Similar to Anthropic's computer use tool and OpenAI's Atlas, the new AI features reflect the shift from the regular search format to one infused with AI agents.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.325+05:30"
+  },
+  {
+    "title": "Mistral AI Upgrades Vibe Coding Agent",
+    "url": "https://aibusiness.com/foundation-models/mistral-ai-upgrades-vibe-coding-agent",
+    "description": "The update is a step forward as the company underscores its position as a European challenger to dominant U.S. players in AI-assisted software development.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.326+05:30"
+  },
+  {
+    "title": "UK Watchdog Pushes for Google AI Opt-Out",
+    "url": "https://aibusiness.com/ai-policy/uk-watchdog-google-ai-opt-out",
+    "description": "As sites see reduced clicks due to Google's AI summaries, calls are mounting for renewed regulation.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.327+05:30"
+  },
+  {
+    "title": "OpenMind Unveils Robot App Store",
+    "url": "https://aibusiness.com/robotics/openmind-unveils-robot-app-store",
+    "description": "The company said its platform will improve robot operators' access to software and support robotics adoption.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.328+05:30"
+  },
+  {
+    "title": "Nvidia Introduces New AI Weather Forecast Models",
+    "url": "https://aibusiness.com/foundation-models/nvidia-ai-weather-forecast-models",
+    "description": "The models come as part of the company's Earth-2 platform, pitched as the first fully open AI weather software stack.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.328+05:30"
+  },
+  {
+    "title": "Google Launches Low-Cost AI Plus Subscription in the U.S.",
+    "url": "https://aibusiness.com/generative-ai/google-launches-ai-plus-subscription-us",
+    "description": "The plan was previously available in select territories around the world but is now being rolled out to an additional 35 countries.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.329+05:30"
+  },
+  {
+    "title": "Robotics in 2026: Building the Business Case for Humanoids",
+    "url": "https://aibusiness.com/robotics/building-business-case-for-humanoid-robotics",
+    "description": "From household deployments to general-purpose machines, experts weigh in on what the next year holds for the robotics industry.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.330+05:30"
+  },
+  {
+    "title": "Navigating the Next Phase of GenAI: Predictions for 2026",
+    "url": "https://aibusiness.com/agentic-ai/navigating-the-next-phase-of-genai",
+    "description": "This year, enterprises will increasingly use and refine how they apply AI technology, balancing cost management with maximizing AI effectiveness.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.331+05:30"
+  },
+  {
+    "title": "Ai2 Releases Open Coding Agents Family",
+    "url": "https://aibusiness.com/agentic-ai/ai2-releases-open-coding-agents",
+    "description": "The release shows how enterprises need to balance cost with performance and highlights a rising trend in the open source model market.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.331+05:30"
+  },
+  {
+    "title": "Startup Plans to Use AI to Optimize How AI Chips Are Made",
+    "url": "https://aibusiness.com/intelligent-automation/startup-optimize-how-ai-chips-are-made",
+    "description": "Two former-Google researchers launched Ricursive Intelligence in December. The company is already valued at $4 billion.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.332+05:30"
+  },
+  {
+    "title": "Debate Rages Over AI Bubble vs. Boom",
+    "url": "https://aibusiness.com/data-centers/debate-rages-ai-bubble-boom",
+    "description": "As spending on AI infrastructure reaches new heights, questions persist about the long-term viability of data center investments and whether OpenAI can meet its lofty expectations.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.333+05:30"
+  },
+  {
+    "title": "Microsoft Aims for Better Inference Efficiency With Maia 200",
+    "url": "https://aibusiness.com/generative-ai/microsoft-aims-for-better-inference-efficiency",
+    "description": "As enterprises increasingly deploy AI agents that perform multi-step tasks, the chip addresses the need for more performance, cost efficiency, and energy savings in inference.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.333+05:30"
+  },
+  {
+    "title": "Nvidia Invests $2B in CoreWeave, Expands Partnership",
+    "url": "https://aibusiness.com/data-centers/nvidia-invests-2b-in-coreweave-expands-partnership",
+    "description": "The vendors expanded their partnership, boosting CoreWeave's standing in the AI infrastructure market.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.334+05:30"
+  },
+  {
+    "title": "Meta Pauses Teen Access to its AI Chatbot Characters",
+    "url": "https://aibusiness.com/chatbot/meta-pauses-teen-access-to-its-ai-chatbot-characters",
+    "description": "The move comes amid growing concern about interactions between chatbots and teenagers.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.335+05:30"
+  },
+  {
+    "title": "Microsoft Launches Vision-Language-Action Model for Robots",
+    "url": "https://aibusiness.com/robotics/microsoft-launches-vision-language-action-model-for-robots",
+    "description": "Designed to improve robots’ reasoning capabilities, Rho-alpha marks Microsoft’s offering in the growing field of physical AI.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.336+05:30"
+  },
+  {
+    "title": "Serve Robotics Acquires Hospital Assistant Robot Company",
+    "url": "https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company",
+    "description": "The acquisition of Diligent Robotics marks the first expansion of Serve’s autonomy platform from sidewalks to indoor environments.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.336+05:30"
+  },
+  {
+    "title": "VoiceRun Raises $5.5M for Full-Stack Voice AI Platform",
+    "url": "https://aibusiness.com/agentic-ai/voicerun-startup-full-stack-voice-ai-platform",
+    "description": "The startup positions its AI agent development platform as meeting rising transparency and reliability standards.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.337+05:30"
+  },
+  {
+    "title": "Enterprises Should Prioritize Governance Amid Agentic AI Boom",
+    "url": "https://aibusiness.com/agentic-ai/enterprises-should-prioritize-governance-amid-agentic-ai-boom",
+    "description": "Executives from Accenture and Okta warned that the rapid adoption of autonomous AI agents is outpacing governance strategies.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.338+05:30"
+  },
+  {
+    "title": "AI Startups Merge to Launch First Full-Stack AI Cloud",
+    "url": "https://aibusiness.com/data-centers/ai-startups-merge-full-stack-ai-cloud",
+    "description": "Lightning AI and Voltage Park are joining up to bring together AI software and GPUs into a single stack.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.339+05:30"
+  },
+  {
+    "title": "Anthropic Aims for Transparency With Claude Constitution",
+    "url": "https://aibusiness.com/responsible-ai/anthropic-aims-for-transparency-with-constitution",
+    "description": "The updated document addresses enterprises' need to understand AI systems and how they think -- a critical factor for using them in applications that could lead to unpredictable situations.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.339+05:30"
+  },
+  {
+    "title": "Humans&amp; Raises $480M to Build Human-Centric AI Tools",
+    "url": "https://aibusiness.com/agentic-ai/startup-human-centric-ai-tools",
+    "description": "Just three months old, the startup is already valued at $4.48 billion and has garnered attention from Google, Nvidia and Jeff Bezos.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.340+05:30"
+  },
+  {
+    "title": "OpenAI Targets Monetization, $1.4T Commitments by 2034",
+    "url": "https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034",
+    "description": "With the company investing massive amounts in infrastructure, prompting scrutiny of its finances, increased use of its products is a clear focus.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.341+05:30"
+  },
+  {
+    "title": "OpenAI Expands Cheap ChatGPT Tier; Ads Coming Soon",
+    "url": "https://aibusiness.com/foundation-models/cheap-chatgpt-tier-month-ads-coming-soon",
+    "description": "OpenAI is evolving ChatGPT as it looks for ways to boost revenue while ensuring ad-free options for premium users.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.342+05:30"
+  },
+  {
+    "title": "OpenAI, ServiceNow Enter Into Strategic Multiyear Partnership",
+    "url": "https://aibusiness.com/generative-ai/openai-servicenow-enter-into-multiyear-partnership",
+    "description": "The partnership reflects OpenAI's broader strategy to establish itself in the enterprise IT market by collaborating with major providers, while embedding its technology in their products without direct sales.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.342+05:30"
+  },
+  {
+    "title": "Wikipedia Parent Announces AI Deal with Amazon, Meta, Perplexity",
+    "url": "https://aibusiness.com/foundation-models/wikipedia-ai-deal-amazon-meta-perplexity",
+    "description": "Under the deal, tech vendors are paying to access Wikimedia's data to train and develop their large language models.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.343+05:30"
+  },
+  {
+    "title": "How AI is Reducing the Administrative Burden in Sales",
+    "url": "https://aibusiness.com/generative-ai/how-ai-is-reducing-the-administrative-burden-in-sales",
+    "description": "Sales teams are using generative AI to reduce the time they spend on administrative tasks, enabling sales associates to focus on their core responsibilities.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.344+05:30"
+  },
+  {
+    "title": "Gemini Can Scour Apps to Deliver 'Personal Intelligence'",
+    "url": "https://aibusiness.com/agentic-ai/gemini-scours-apps-personal-intelligence",
+    "description": "The new feature works across Gmail, Photos, YouTube and Search to answer a user's questions.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.345+05:30"
+  },
+  {
+    "title": "Cerebras Poses an Alternative to Nvidia With $10B OpenAI Deal",
+    "url": "https://aibusiness.com/generative-ai/cerebras-poses-an-alternative-to-nvidia",
+    "description": "The agreement gives Cerebras a chance to show if its highly touted wafer-scale engine can successfully drive giant AI models better than Nvidia's chips.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.345+05:30"
+  },
+  {
+    "title": "AI Startup That Builds a Brain for Robots Valued at $14 Billion",
+    "url": "https://aibusiness.com/robotics/skild-ai-startup-builds-robot-brain",
+    "description": "Skild AI's latest funding round will help it scale its omni-bodied AI model, which is being developed with the aim of controlling any robot for any task.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.346+05:30"
+  },
+  {
+    "title": "Humanoid Robot Actuator Market Could Approach $10B by 2031",
+    "url": "https://aibusiness.com/robotics/humanoid-robot-actuator-market-2031",
+    "description": "Increased deployment of humanoid robots across sectors is causing a boom in actuator demand.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.347+05:30"
+  },
+  {
+    "title": "Tech Giants, Thomson Reuters Form Alliance to Advance Trust in AI",
+    "url": "https://aibusiness.com/explainable-ai/tech-giants-thomson-reuters-alliance-ai-trust",
+    "description": "The Trust in AI Alliance aims to advance AI systems through collaboration, transparency and actionable solutions.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.348+05:30"
+  },
+  {
+    "title": "Phenom's Acquisition: AI, Automation and the Future of Work",
+    "url": "https://aibusiness.com/agentic-ai/phenom-s-acquisition-ai-automation-work",
+    "description": "Amid concerns about AI-driven job losses, Phenom CEO Mahe Bayireddi emphasizes that AI is augmenting jobs rather than fully automating them, creating new opportunities in various sectors.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.348+05:30"
+  },
+  {
+    "title": "Salesforce Recasts Slackbot as a Personal AI Agent for Work",
+    "url": "https://aibusiness.com/agentic-ai/salesforce-updates-slack-for-ai-era",
+    "description": "The update aims to make AI technology part of a collection of existing tools rather than another burden for employees.",
+    "category": [],
+    "fetchedAt": "2026-02-10T09:00:33.349+05:30"
   }
 ]
