@@ -4638,12 +4638,54 @@
     "url": "https://internationalconferencealerts.com/eventdetails.php?id=100360515",
     "description": "The aim of the Conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet the share cuttingedge development in the field.",
     "category": "Events in India related to Sports",
-    "fetchedAt": "2026-02-24T00:00:46.352+05:30"
+    "fetchedAt": "2026-02-25T00:00:46.689+05:30"
   },
   {
-    "title": "OpenAI Aims for Stablecoin Market with New EVMbench",
+    "title": "Amazon to Invest in Louisiana Data Centers",
+    "url": "https://aibusiness.com/generative-ai/amazon-to-invest-in-louisiana-data-centers",
+    "description": "The project marks the vendor's first large-scale data center footprint in the state.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "Anthropic vs. Chinese Vendors: The Problem With Distillation",
+    "url": "https://aibusiness.com/generative-ai/anthropic-vs-chinese-ai-vendors",
+    "description": "While distillation is common in AI, the scale at which Chinese vendors allegedly did so is problematic and could pose risks to enterprises.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "OpenAI Partners With Consulting Giants in Enterprise AI Push",
+    "url": "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai",
+    "description": "The deals are part of the generative AI vendor's campaign to gain more traction with businesses.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "Navigating the Shift in Professional Services with AI",
+    "url": "https://aibusiness.com/generative-ai/navigating-the-shift-in-professional-services",
+    "description": "The old model of building expertise over time is shifting, requiring businesses to adapt and harness knowledge from senior professionals, using AI as a collaborative tool.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "U.S. Launches ‘Tech Corps’ to Bolster AI Abroad",
+    "url": "https://aibusiness.com/ai-policy/u-s-launches-tech-corps-to-bolster-ai-abroad",
+    "description": "The program will send technical volunteers abroad to champion U.S. AI technology overseas",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "Opinion: From Islands to Ecosystems: Why Interoperability Unlocks Scale for Agentic AI",
+    "url": "https://aibusiness.com/agentic-ai/opinion-from-islands-to-ecosystems-why-interoperability-unlocks-scale-for-agentic-ai",
+    "description": "AI agents can’t transform the enterprise alone. Their power comes when they collaborate.",
+    "category": "AI News",
+    "fetchedAt": "https://aibusiness.com/"
+  },
+  {
+    "title": "OpenAI Aims for Stablecoin Market With New EVMbench",
     "url": "https://aibusiness.com/agentic-ai/openai-aims-for-stablecoin-market",
-    "description": "The new benchmark highlights the growth of the stablecoin market and presents an opportunity for the AI vendor to increase revenue.",
+    "description": "The benchmark highlights the growth of the stablecoin market and presents an opportunity for the AI vendor to increase revenue.",
     "category": "AI News",
     "fetchedAt": "https://aibusiness.com/"
   },
@@ -4945,48 +4987,6 @@
     "title": "Robotics in 2026: Building the Business Case for Humanoids",
     "url": "https://aibusiness.com/robotics/building-business-case-for-humanoid-robotics",
     "description": "From household deployments to general-purpose machines, experts weigh in on what the next year holds for the robotics industry.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Navigating the Next Phase of GenAI: Predictions for 2026",
-    "url": "https://aibusiness.com/agentic-ai/navigating-the-next-phase-of-genai",
-    "description": "This year, enterprises will increasingly use and refine how they apply AI technology, balancing cost management with maximizing AI effectiveness.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Ai2 Releases Open Coding Agents Family",
-    "url": "https://aibusiness.com/agentic-ai/ai2-releases-open-coding-agents",
-    "description": "The release shows how enterprises need to balance cost with performance and highlights a rising trend in the open source model market.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Startup Plans to Use AI to Optimize How AI Chips Are Made",
-    "url": "https://aibusiness.com/intelligent-automation/startup-optimize-how-ai-chips-are-made",
-    "description": "Two former-Google researchers launched Ricursive Intelligence in December. The company is already valued at $4 billion.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Debate Rages Over AI Bubble vs. Boom",
-    "url": "https://aibusiness.com/data-centers/debate-rages-ai-bubble-boom",
-    "description": "As spending on AI infrastructure reaches new heights, questions persist about the long-term viability of data center investments and whether OpenAI can meet its lofty expectations.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Microsoft Aims for Better Inference Efficiency With Maia 200",
-    "url": "https://aibusiness.com/generative-ai/microsoft-aims-for-better-inference-efficiency",
-    "description": "As enterprises increasingly deploy AI agents that perform multi-step tasks, the chip addresses the need for more performance, cost efficiency, and energy savings in inference.",
-    "category": "AI News",
-    "fetchedAt": "https://aibusiness.com/"
-  },
-  {
-    "title": "Nvidia Invests $2B in CoreWeave, Expands Partnership",
-    "url": "https://aibusiness.com/data-centers/nvidia-invests-2b-in-coreweave-expands-partnership",
-    "description": "The vendors expanded their partnership, boosting CoreWeave's standing in the AI infrastructure market.",
     "category": "AI News",
     "fetchedAt": "https://aibusiness.com/"
   }
