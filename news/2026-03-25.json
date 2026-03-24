@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "title": "Sniper Boxing Promotion - Season 3",
+      "link": "https://www.district.in/events/sniper-boxing-promotion-season-3-mar28-2026-buy-tickets",
+      "description": "Welcome to the new era of Indian combat sports. This is Sniper Boxing Promotion. Helmed by the trailblazing Sanna Suri, we bring you a world where the grit of the fighter meets the glitz of the...",
+      "pubDate": "Mar 28",
+      "categories": "Events in India related to Sports",
+      "fetched_at": "2026-03-25T00:00:34.656+05:30"
+    },
+    {
+      "title": "Anthropic's Claude Can Now Take Control of Your Computer",
+      "link": "https://aibusiness.com/agentic-ai/anthropic-s-claude-can-take-control-of-your-computer",
+      "description": "The new capability is the latest release in a wave of personal agent applications.",
+      "pubDate": "Tue, 24 Mar 2026 18:12:10 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Cohere, Saab Partner on Advanced AI in Aerospace",
+      "link": "https://aibusiness.com/generative-ai/cohere-saab-partner-on-ai-in-aerospace",
+      "description": "The companies will focus on bringing AI into areas including surveillance, maintenance and mission support.",
+      "pubDate": "Tue, 24 Mar 2026 17:53:00 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Fear of Missing Out is Not a Good Reason to Implement AI",
+      "link": "https://aibusiness.com/generative-ai/fear-of-missing-out-no-reason-to-implement-ai",
+      "description": "Enterprises should define problems where AI can help, rather than use AI as a means in itself.",
+      "pubDate": "Tue, 24 Mar 2026 17:27:50 GMT",
+      "creator": "Esther Shittu, Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Oracle Fusion Apps Give Enterprises Secure, Specialized Agents",
+      "link": "https://aibusiness.com/agentic-ai/oracle-fusion-apps-give-enterprises-secure-agents",
+      "description": "The new features are aimed at helping enterprises feel secure as they work with AI agents and provide an enterprise-ready environment for analyzing their AI projects.",
+      "pubDate": "Tue, 24 Mar 2026 17:07:09 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Mistral CEO Says AI Companies Should Pay a Tax in Europe",
+      "link": "https://aibusiness.com/ai-policy/mistral-ceo-says-ai-companies-should-pay-tax-europe",
+      "description": "The tax proposal stems from Mistral's stance on European AI sovereignty.",
+      "pubDate": "Tue, 24 Mar 2026 12:27:44 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Bezos’ Blue Origin joins race to put AI data centers in space",
+      "link": "https://aibusiness.com/data-centers/bezos-blue-origin-joins-race-ai-data-centers-in-space",
+      "description": "The space tech company has filed an application to launch more than 50,000 satellites into orbit for AI compute.",
+      "pubDate": "Mon, 23 Mar 2026 17:40:23 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Alibaba Unveils Enterprise Agent Tool",
+      "link": "https://aibusiness.com/agentic-ai/alibaba-unveils-enterprise-agent-tool",
+      "description": "Accio Work aims to assist SMBs in navigating the complexities of international trade by automating tasks such as compliance, sourcing and marketing integration.",
+      "pubDate": "Mon, 23 Mar 2026 14:35:22 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Wayve, Uber and Nissan Launch Robotaxi Pilot in Tokyo",
+      "link": "https://aibusiness.com/generative-ai/wayve-uber-and-nissan-launch-robotaxi-pilot",
+      "description": "The test comes as the self-driving vehicle market revs up worldwide.",
+      "pubDate": "Mon, 23 Mar 2026 13:52:47 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Cuts Back on Unnecessary Copilot AI in Windows",
+      "link": "https://aibusiness.com/generative-ai/microsoft-cuts-back-on-unnecessary-copilot-ai",
+      "description": "The moves appear to be a response to public perceptions of AI oversaturation.",
+      "pubDate": "Mon, 23 Mar 2026 13:09:07 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Trump Administration Releases AI Legislative Framework",
+      "link": "https://aibusiness.com/ai-policy/trump-administration-releases-ai-legislative-framework",
+      "description": "The administration seeks to streamline regulations at the federal level, avoiding state-by-state governance, despite potential resistance from states with their own AI regulations.",
+      "pubDate": "Fri, 20 Mar 2026 17:53:21 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Rivian’s Bet on AI Attracts $1.25 Billion Uber Deal",
+      "link": "https://aibusiness.com/generative-ai/rivian-s-bet-on-ai-attracts-1.2b-uber-deal",
+      "description": "The investment could help revive the carmaker's fortunes after recent financial turbulence.",
+      "pubDate": "Fri, 20 Mar 2026 14:39:15 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Google's Stitch and the Shift in AI-Driven Development",
+      "link": "https://aibusiness.com/generative-ai/google-s-stitch-and-ai-driven-development",
+      "description": "The platform integrates an AI-native canvas that enables users to create UI designs using text, images and voice commands.",
+      "pubDate": "Thu, 19 Mar 2026 19:24:39 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Tencent to Double AI Spending to More Than $5B Over Next Year",
+      "link": "https://aibusiness.com/agentic-ai/tencent-to-double-ai-spending-to-more-than-5b",
+      "description": "The vendor is getting into the fast-growing AI personal agent market.",
+      "pubDate": "Thu, 19 Mar 2026 17:20:07 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Samsung Pledges $73B to Boost AI Chip Standing",
+      "link": "https://aibusiness.com/generative-ai/samsung-pledges-73b-to-boost-ai-chip-standing",
+      "description": "The investment, the vendor's largest annual spending to date, comes as the vendor repositions itself in the AI hardware ecosystem.",
+      "pubDate": "Thu, 19 Mar 2026 13:56:23 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "How a Nonprofit Transforms Data with Cloudera and AI",
+      "link": "https://aibusiness.com/data-management/how-a-nonprofit-transforms-data-with-cloudera-and-ai",
+      "description": "The organization developed data pipelines that extract and structure information from various scientific sources, significantly accelerating the research process.",
+      "pubDate": "Wed, 18 Mar 2026 21:11:24 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Mistral Pioneers Sovereign AI in Europe",
+      "link": "https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe",
+      "description": "Mistral's sovereign AI stack, investment in data center capacity and open-weight frontier models provide CIOs with an alternative to U.S. proprietary AI models.",
+      "pubDate": "Wed, 18 Mar 2026 15:56:54 GMT",
+      "creator": "Bridget Botelho",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Extends its Reach Into Self-Driving",
+      "link": "https://aibusiness.com/generative-ai/nvidia-extends-its-reach-into-self-driving",
+      "description": "The AI hardware and software vendor targets another tech sector.",
+      "pubDate": "Wed, 18 Mar 2026 14:49:52 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Building Resilience in the Age of AI",
+      "link": "https://aibusiness.com/data-governance/building-resilience-in-the-age-of-ai",
+      "description": "Governance and resilience are important in the face of increased AI use.",
+      "pubDate": "Tue, 17 Mar 2026 18:16:19 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "US Startup to Build South Korea’s Biggest AI Data Center",
+      "link": "https://aibusiness.com/generative-ai/us-startup-to-build-south-korea-s-biggest-ai-data-center",
+      "description": "The planned data center would be part of the Asian tech powerhouse's sovereign AI campaign.",
+      "pubDate": "Tue, 17 Mar 2026 16:40:54 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Alibaba Launches Enterprise AI Agent Platform",
+      "link": "https://aibusiness.com/agentic-ai/alibaba-launches-enterprise-ai-agent-platform",
+      "description": "The launch comes amid growing competition in China’s agentic AI market. Nvidia and Meta also recently jumped into the personal agent arena.",
+      "pubDate": "Tue, 17 Mar 2026 15:45:31 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Devises a More Secure OpenClaw Stack for Enterprises",
+      "link": "https://aibusiness.com/agentic-ai/nvidia-devises-secure-openclaw-stack-for-enterprises",
+      "description": "The new stack is designed to be safer for enterprises creating personal agents.",
+      "pubDate": "Tue, 17 Mar 2026 00:20:34 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Intros Data Factory, Robotics Models in Physical AI Push",
+      "link": "https://aibusiness.com/robotics/nvidia-intros-data-factory-robotics-models-for-physical-ai",
+      "description": "The releases aim to solidify the AI chip giant's standing in the physical AI sector.",
+      "pubDate": "Mon, 16 Mar 2026 20:29:45 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta Spends Another $27B on AI Infrastructure With Nebius",
+      "link": "https://aibusiness.com/generative-ai/meta-spends-27b-on-ai-infrastructure-with-nebius",
+      "description": "The agreement, one of the biggest AI compute deals ever, arrives even as AI vendors, including Meta, are reportedly considering mass layoffs.",
+      "pubDate": "Mon, 16 Mar 2026 17:55:53 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Innovation vs. Adoption: Why They Are Misaligned",
+      "link": "https://aibusiness.com/agentic-ai/ai-innovation-and-adoption-are-misaligned",
+      "description": "Enterprises face challenges in adoption, such as the need to adopt a strong data foundation and an effective governance structure.",
+      "pubDate": "Mon, 16 Mar 2026 16:02:18 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "New Microsoft AI Agents to Help Modernize Enterprises",
+      "link": "https://aibusiness.com/agentic-ai/new-microsoft-ai-agents-to-help-modernize-enterprises",
+      "description": "The agents are the latest in a flurry of agentic products from top AI vendors.",
+      "pubDate": "Mon, 16 Mar 2026 13:36:18 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Customer Support Startup Now Valued at $2 billion",
+      "link": "https://aibusiness.com/agentic-ai/ai-customer-support-startup-valued-at-2-billion",
+      "description": "The vendor targets non-English speaking markets.",
+      "pubDate": "Fri, 13 Mar 2026 14:45:40 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Safety From a Hardware Perspective",
+      "link": "https://aibusiness.com/responsible-ai/ai-safety-from-a-hardware-perspective",
+      "description": "Lenovo engineers are thinking about safety issues related to building and deploying personal agents on laptops and PCs.",
+      "pubDate": "Thu, 12 Mar 2026 18:05:07 GMT",
+      "creator": "Shaun Sutner, Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Ford’s New AI Tool Offers In-Depth Insight Into Its CVs",
+      "link": "https://aibusiness.com/generative-ai/ford-s-new-ai-tool-offers-insight-into-cvs",
+      "description": "The manufacturer continues to support its truck business with AI technology advances.",
+      "pubDate": "Thu, 12 Mar 2026 14:09:53 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Legal Platform now Valued at $5.5 Billion",
+      "link": "https://aibusiness.com/generative-ai/ai-legal-platform-now-valued-at-5-5-billion",
+      "description": "The 2023 startup's funding growth reflects a boom in the market for legal AI platforms and agents.",
+      "pubDate": "Wed, 11 Mar 2026 14:36:07 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta Acquires Moltbook, the AI Agent Social Network",
+      "link": "https://aibusiness.com/agentic-ai/meta-acquires-moltbook-the-ai-agent-network",
+      "description": "Moltbook’s co-founders will join Meta’s research unit as part of the deal, as personal agents quickly gain popularity.",
+      "pubDate": "Wed, 11 Mar 2026 13:40:49 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Contextual Data is Important for Enterprises' AI Projects",
+      "link": "https://aibusiness.com/generative-ai/contextual-data-is-important-for-enterprise-ai",
+      "description": "Enterprises highlight the need for the right type of context when providing data to AI systems and agents.",
+      "pubDate": "Tue, 10 Mar 2026 23:52:30 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Neura Launches Europe's Largest Physical AI Training Center",
+      "link": "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center",
+      "description": "The center will train the next generation of humanoid robots, in a bid to support Europe’s standing in the physical AI race.",
+      "pubDate": "Tue, 10 Mar 2026 17:32:52 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "French AI Startup Building World Models Raises $1.03 billion",
+      "link": "https://aibusiness.com/generative-ai/french-ai-startup-building-world-models-raises-1-03-billion",
+      "description": "World models are gaining popularity quickly as developers seek new ways to train generative AI models.",
+      "pubDate": "Tue, 10 Mar 2026 16:13:52 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Building an AI-Ready Data Ecosystem at Capital One",
+      "link": "https://aibusiness.com/agentic-ai/building-ai-ready-data-ecosystem-at-capital-one",
+      "description": "The financial services giant puts a premium on well-managed and governable data as the foundation for AI systems.",
+      "pubDate": "Tue, 10 Mar 2026 14:57:51 GMT",
+      "creator": "Shaun Sutner, Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Dealing With AI's Effect on Jobs and Opportunities in Data",
+      "link": "https://aibusiness.com/generative-ai/dealing-with-ai-s-effect-on-jobs-and-opportunities-in-data",
+      "description": "AI is leading to a greater focus on roles rather than experience. It’s also leading teams to upskill some workers.",
+      "pubDate": "Mon, 09 Mar 2026 23:23:14 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "ABB, Nvidia Partner to Deliver Physical AI at Scale",
+      "link": "https://aibusiness.com/robotics/abb-nvidia-partner-to-deliver-physical-ai",
+      "description": "The vendors are integrating Nvidia’s Omniverse library with ABB’s robotics platform, in a push to close the sim-to-real gap.",
+      "pubDate": "Mon, 09 Mar 2026 20:24:00 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenClaw Forces Enterprise Strategy Questions",
+      "link": "https://aibusiness.com/agentic-ai/openclaw-forces-enterprise-strategy-questions",
+      "description": "Personal agents could alter the consumer and business landscape, displacing some software.",
+      "pubDate": "Mon, 09 Mar 2026 19:57:38 GMT",
+      "creator": "Patrick Thibodeau",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nscale Valued at $14.6B After Raising Another $2B",
+      "link": "https://aibusiness.com/data-centers/nscale-valued-at-14-6b-after-raising-2b",
+      "description": "The fast-growing GPU-as-a-service vendor is part of a new group of AI infrastructure vendors.",
+      "pubDate": "Mon, 09 Mar 2026 19:51:11 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Recommits to AI Agents With New Copilot Features",
+      "link": "https://aibusiness.com/agentic-ai/microsoft-recommits-to-ai-agents",
+      "description": "The tech giant is integrating Anthropic’s Claude model more widely into its offerings as it pursues interoperable, agentic tools.",
+      "pubDate": "Mon, 09 Mar 2026 18:23:41 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Launches Codex Security to Find and Fix Vulnerabilities",
+      "link": "https://aibusiness.com/agentic-ai/openai-launches-codex-security",
+      "description": "The new AI agent is designed to help developers identify and mitigate complex risks at scale.",
+      "pubDate": "Mon, 09 Mar 2026 13:47:09 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic Report Says It’s Too Early for AI to Affect Jobs",
+      "link": "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs",
+      "description": "The vendor found that highly exposed workers are seeing minimal effect, even as fewer younger workers are being hired.",
+      "pubDate": "Fri, 06 Mar 2026 20:18:19 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Class Action Lawsuit Filed Over Meta AI Glasses Privacy Claims",
+      "link": "https://aibusiness.com/ai-ethics/class-action-lawsuit-filed-over-meta-ai-glasses",
+      "description": "The social media giant responded that its AI system filters data to keep it private.",
+      "pubDate": "Fri, 06 Mar 2026 16:23:50 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Gemini’s Canvas in AI Mode Available in Google Search in US",
+      "link": "https://aibusiness.com/generative-ai/gemini-s-canvas-in-ai-mode-available-in-us",
+      "description": "The expansion of the workspace platform follows a gradual rollout.",
+      "pubDate": "Thu, 05 Mar 2026 16:49:54 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Underwater Data Center Project Aboard Offshore Wind Turbine",
+      "link": "https://aibusiness.com/data-centers/underwater-data-center-project-aboard-offshore-wind-turbine",
+      "description": "Offshore infrastructure provider Aikido has launched the project in a bid to expand capacity for booming AI compute demand.",
+      "pubDate": "Thu, 05 Mar 2026 16:05:31 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Perplexity, CoreWeave Deal Boosts Inferencing",
+      "link": "https://aibusiness.com/generative-ai/perplexity-coreweave-deal-boosts-inferencing",
+      "description": "The deal shows the continual emphasis on inference and lets CoreWeave prove itself as an inference provider through Perplexity.",
+      "pubDate": "Thu, 05 Mar 2026 14:28:42 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Euro Regulators Question Meta Over AI Glasses Privacy Fears",
+      "link": "https://aibusiness.com/metaverse/euro-regulators-question-meta-over-ai-glasses-privacy-fears",
+      "description": "The allegations involve a U.S.-based data annotation and labeling vendor.",
+      "pubDate": "Thu, 05 Mar 2026 13:39:47 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Takes on Telco Industry With Open Source Model",
+      "link": "https://aibusiness.com/generative-ai/nvidia-takes-on-telco-industry-with-new-model",
+      "description": "While Nvidia's approach focuses on enabling more autonomous workflows for telco companies, it faces competition from traditional network vendors such as Ericsson and Nokia.",
+      "pubDate": "Wed, 04 Mar 2026 21:08:18 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Humanoid Robots Now Assembling Cars in Europe and China",
+      "link": "https://aibusiness.com/robotics/humanoid-robots-assembling-cars-europe-china",
+      "description": "BMW is launching a pilot at its plant in Leipzig, marking the first time it has used this form of physical AI in Europe.",
+      "pubDate": "Wed, 04 Mar 2026 16:07:01 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate",
+      "link": "https://aibusiness.com/generative-ai/openai-says-chatgpt-instant-5-3-is-less-cringe-more-accurate",
+      "description": "The AI model maker said it is responding to user criticisms.",
+      "pubDate": "Wed, 04 Mar 2026 15:37:02 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "IBM Targets Voice Capabilities in Watsonx With Deepgram Partnership",
+      "link": "https://aibusiness.com/intelligent-automation/ibm-watsonx-deepgram-partnership",
+      "description": "The deal marks IBM's first voice technology collaboration, embedding Deepgram's speech engine directly into Watsonx Orchestrate's agent-building tools",
+      "pubDate": "Wed, 04 Mar 2026 15:30:24 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    }
+  ]
+}
