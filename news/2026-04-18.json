@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "title": "Sports Quota Selection Trials 2026",
+      "link": "https://caias.in/event/sports-quota-selection-trials-2026/",
+      "description": "SPORTS QUOTA SELECTION TRIALS Sports Scholarship 2026-27 Organised by the Department of Physical Education, Christ Academy Institute for Advanced Studies. Selection trials for group and individual...",
+      "pubDate": "Apr 18",
+      "categories": "Events in India related to Sports",
+      "fetched_at": "2026-04-18T00:00:49.941+05:30"
+    },
+    {
+      "title": "The Real AI Shift Isn’t New Models. It’s Control.",
+      "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
+      "description": "As AI use accelerates, the challenge is no longer building systems but managing them at scale.",
+      "pubDate": "Fri, 17 Apr 2026 16:05:09 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
+      "link": "https://aibusiness.com/generative-ai/openai-gpt-5-4-cyber-more-open-than-claude-mythos",
+      "description": "The model could help cybersecurity experts better prepare for attacks.",
+      "pubDate": "Fri, 17 Apr 2026 15:47:37 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic Releases Good but not Great Claude Opus 4.7",
+      "link": "https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7",
+      "description": "With this release, Anthropic aims to provide a model that addresses key enterprise obstacles, including model drift and hallucinations.",
+      "pubDate": "Thu, 16 Apr 2026 20:41:33 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Stellantis Ramps Up AI Strategy With Microsoft Deal",
+      "link": "https://aibusiness.com/generative-ai/stellantis-ramps-ai-strategy-microsoft-deal",
+      "description": "One of the world's biggest automakers is plunging full-on into AI.",
+      "pubDate": "Thu, 16 Apr 2026 18:07:59 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Partners with Chip Software Maker to Close Sim-to-Real Gap",
+      "link": "https://aibusiness.com/robotics/nvidia-partners-chip-software-maker-close-sim-to-real-gap",
+      "description": "The expanded deal with Cadence aims to improve the accuracy of robot training data and build out AI offerings for engineers.",
+      "pubDate": "Thu, 16 Apr 2026 15:45:34 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Updates Agents SDK, Aims at Building Secure Agents",
+      "link": "https://aibusiness.com/agentic-ai/openai-updates-agents-sdk-aims-building-secure-agents",
+      "description": "The features enable faster agent deployment. They are most beneficial to developers within the vendor's ecosystem.",
+      "pubDate": "Thu, 16 Apr 2026 15:16:48 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "As AI Infosec Woes Heighten, IBM Intros Autonomous Security Service",
+      "link": "https://aibusiness.com/agentic-ai/ai-infosec-woes-heighten-ibm-autonomous-security-service",
+      "description": "The service is another measure in the security market to keep pace with models that can accelerate cyberattacks.",
+      "pubDate": "Wed, 15 Apr 2026 19:40:38 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Once Trendy Shoe Company Allbirds Pivots to AI Infrastructure",
+      "link": "https://aibusiness.com/data-centers/once-trendy-shoe-company-allbirds-pivots-ai-infrastructure",
+      "description": "The company is using a $50 million convertible financing facility agreement to undertake a full rebranding.",
+      "pubDate": "Wed, 15 Apr 2026 18:10:32 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta, Broadcom Agree to Mega-Deal to Co-Develop AI Chips",
+      "link": "https://aibusiness.com/generative-ai/meta-broadcom-agree-mega-deal-co-develop-ai-chips",
+      "description": "The latest deal is one of many compute arrangements that major AI developers have made with chipmakers in recent months to reduce reliance on Nvidia.",
+      "pubDate": "Wed, 15 Apr 2026 16:17:53 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Funding Lays Groundwork for Orbital's AI Data Centers in Space",
+      "link": "https://aibusiness.com/generative-ai/funding-lays-groundwork-orbital-s-ai-data-centers-space",
+      "description": "The 2026 startup is among a host of new companies looking to turn the space vision into reality.",
+      "pubDate": "Wed, 15 Apr 2026 14:36:25 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Boston Dynamics, Google DeepMind Partner on Industrial AI",
+      "link": "https://aibusiness.com/generative-ai/boston-dynamics-google-partner-industrial-ai",
+      "description": "The vendors are using Google Gemini to bring more autonomous capabilities to Boston Dynamics' industrial inspection systems.",
+      "pubDate": "Wed, 15 Apr 2026 13:12:52 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic Mythos Prompting Calls for More Security Measures",
+      "link": "https://aibusiness.com/generative-ai/anthropic-mythos-prompting-calls-more-security-measures",
+      "description": "Although access to Mythos is limited, the risk of it falling into the wrong hands is high, necessitating urgent action by organizations to protect themselves.",
+      "pubDate": "Tue, 14 Apr 2026 22:05:25 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Oracle Expands AI Infrastructure Drive with Bloom Deal",
+      "link": "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal",
+      "description": "The deal comes amid growing interest in onsite energy options, as AI compute vendors struggle to meet power demands.",
+      "pubDate": "Tue, 14 Apr 2026 14:12:55 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Spreading at 'Historic Speed,' According to Stanford Report",
+      "link": "https://aibusiness.com/generative-ai/ai-spreading-historic-speed-according-stanford-report",
+      "description": "The report also found that China has made significant gains in the AI race against the U.S.",
+      "pubDate": "Tue, 14 Apr 2026 13:00:54 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Kia Unveils Robotics Strategy for Car Manufacturing, Deliveries",
+      "link": "https://aibusiness.com/automation/kia-use-robots-build-its-cars-also-delivery-vehicles",
+      "description": "The South Korean company is staking its future on industrial robotic automation.",
+      "pubDate": "Mon, 13 Apr 2026 15:49:09 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic's Glasswing Highlights AI's Security Paradox",
+      "link": "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox",
+      "description": "A new initiative arrives amid growing concerns about AI’s ability to identify vulnerabilities, pointing to a broader shift toward AI-driven security.",
+      "pubDate": "Fri, 10 Apr 2026 15:39:11 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Intel Secures New AI Infrastructure Deal With Google",
+      "link": "https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google",
+      "description": "The agreement is one of many AI infrastructure deals among major tech vendors over the last few months.",
+      "pubDate": "Fri, 10 Apr 2026 15:21:07 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "South Korean Chipmaker Partners with SKT, Arm for Sovereign AI",
+      "link": "https://aibusiness.com/generative-ai/south-korean-chipmaker-partners-skt-arm-sovereign-ai",
+      "description": "Rebellions said it will work with the companies to boost AI and telecom data centers, as it pushes its market expansion.",
+      "pubDate": "Fri, 10 Apr 2026 12:01:02 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
+      "link": "https://aibusiness.com/generative-ai/meta-coreweave-21b-deal-expand-ai-partnership",
+      "description": "The agreement builds on the companies’ previous $14.2 billion contract signed in September 2025, which runs through 2031.",
+      "pubDate": "Thu, 09 Apr 2026 16:25:31 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic Tool Speeds up AI Agent Development for Enterprises",
+      "link": "https://aibusiness.com/agentic-ai/new-anthropic-tool-speeds-ai-agent-development-enterprises",
+      "description": "The product comes amid a flurry of releases from the generative AI vendor, which is locked in a tight battle with rival OpenAI.",
+      "pubDate": "Thu, 09 Apr 2026 13:40:02 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta Releases First Proprietary AI Model: Muse Spark",
+      "link": "https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark",
+      "description": "The model is intended for personal AI use, and the vendor admits it is limited in certain agentic capabilities and coding.",
+      "pubDate": "Wed, 08 Apr 2026 19:38:51 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic's Project Glasswing May Not Be Enough to Prevent Model Abuse",
+      "link": "https://aibusiness.com/generative-ai/anthropic-s-project-glasswing-not-enough-to-prevent-model-abuse",
+      "description": "The project responds to concerns about the growing capabilities of AI in code generation and the potential threats posed by the technology.",
+      "pubDate": "Wed, 08 Apr 2026 16:03:31 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Intel Joins Elon Musk’s $25B Chip-Making Masterplan",
+      "link": "https://aibusiness.com/generative-ai/intel-joins-elon-musk-s-25b-chip-making-masterplan",
+      "description": "The Musk-Intel alliance adds proven chip-making expertise to the project.",
+      "pubDate": "Wed, 08 Apr 2026 14:02:40 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Uber Expands AWS Partnership to Build AI Capabilities",
+      "link": "https://aibusiness.com/generative-ai/uber-expands-aws-partnership-build-ai-capabilities",
+      "description": "Uber is tapping AWS’ AI chips to improve real-time operations and AI model development.",
+      "pubDate": "Wed, 08 Apr 2026 12:45:16 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "C3 AI Launches C3 Code for Businesses Seeking Domain Expertise",
+      "link": "https://aibusiness.com/agentic-ai/c3-launches-c3-code-businesses-seeking-domain-expertise",
+      "description": "The vendor's new application is for enterprises seeking an agentic coding platform with expertise in industries such as manufacturing and energy.",
+      "pubDate": "Tue, 07 Apr 2026 20:51:09 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Spanish Startup Xoople Lands $130M to Build Satellites for AI",
+      "link": "https://aibusiness.com/generative-ai/spanish-startup-xoople-lands-130m-build-satellites-for-ai",
+      "description": "The company says its &quot;Earth System of Record&quot; will be instrumental in connecting AI more securely to the physical world.",
+      "pubDate": "Tue, 07 Apr 2026 15:11:28 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic Forges Chip Deals to Accelerate Claude's Growth",
+      "link": "https://aibusiness.com/generative-ai/anthropic-forges-chip-deals-accelerate-claude-s-growth",
+      "description": "The deals are dependent on the vendor's commercial success.",
+      "pubDate": "Tue, 07 Apr 2026 14:39:52 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Redefining Development in the Age of Agentic AI",
+      "link": "https://aibusiness.com/agentic-ai/redefining-development-age-of-agentic-ai",
+      "description": "The foundation focuses on providing essential tools to develop open, interoperable infrastructure for agentic AI applications.",
+      "pubDate": "Tue, 07 Apr 2026 12:29:32 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Addresses AI's Effects and Poses Possible Answers in New Doc",
+      "link": "https://aibusiness.com/ai-policy/openai-addresses-ai-s-effects-poses-possible-answers-new-doc",
+      "description": "The policy provides OpenAI with a way to position itself as a company that's thinking about the implications of AI technology, especially as it affects enterprise workers.",
+      "pubDate": "Mon, 06 Apr 2026 19:46:29 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership",
+      "link": "https://aibusiness.com/generative-ai/opinion-fast-flexible-ai-testing-foundation-strategic-leadership",
+      "description": "Leaders can adapt to generative AI's rapid rise by embracing agile AI strategies such as dedicated experimentation and establishing accountability at the outset.",
+      "pubDate": "Mon, 06 Apr 2026 14:52:16 GMT",
+      "creator": "Cathy Wolfe",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Claude Subscribers Now Have to Pay to Use OpenClaw",
+      "link": "https://aibusiness.com/agentic-ai/claude-subscribers-now-have-pay-use-openclaw",
+      "description": "OpenClaw developer Peter Steinberger had initially worked with Anthropic but moved the popular personal agent system to OpenAI.",
+      "pubDate": "Mon, 06 Apr 2026 14:39:11 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft to Invest $10B in AI and Cybersecurity in Japan",
+      "link": "https://aibusiness.com/generative-ai/microsoft-invest-10b-ai-cybersecurity-japan",
+      "description": "The tech giant's latest investment in regional AI infrastructure development in Asia comes soon after new investments in Thailand and Singapore.",
+      "pubDate": "Fri, 03 Apr 2026 15:05:44 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Google Launches Open Model Family Gemma 4",
+      "link": "https://aibusiness.com/generative-ai/google-launches-open-model-family-gemma-4",
+      "description": "The new offering is designed for advanced reasoning and multimodal capabilities.",
+      "pubDate": "Fri, 03 Apr 2026 12:51:47 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "MCP is Alive, but Faces Challenges",
+      "link": "https://aibusiness.com/agentic-ai/mcp-alive-faces-challenges",
+      "description": "While users of the open standard have dealt with some hiccups, they see it as an integral part of their path to AI agents.",
+      "pubDate": "Thu, 02 Apr 2026 23:55:31 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Goes Beyond LLMs With New Voice, Image Models",
+      "link": "https://aibusiness.com/generative-ai/microsoft-goes-beyond-llms-new-voice-image-models",
+      "description": "The new AI models signal a stronger push toward Microsoft-developed AI systems.",
+      "pubDate": "Thu, 02 Apr 2026 20:41:58 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Neocloud Pioneer CoreWeave All In on Inference",
+      "link": "https://aibusiness.com/data-centers/neocloud-pioneer-coreweave-inference",
+      "description": "After making a name for itself as a GPU-as-a-service vendor, CoreWeave is evolving -- again.",
+      "pubDate": "Thu, 02 Apr 2026 19:04:08 GMT",
+      "creator": "Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft to Invest $5.5 billion in AI in Singapore",
+      "link": "https://aibusiness.com/generative-ai/microsoft-invest-5-5-billion-ai-in-singapore",
+      "description": "The tech giant continues to roll out sovereign AI investments worldwide.",
+      "pubDate": "Thu, 02 Apr 2026 13:54:02 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Florida University Rolls Out Autonomous Delivery Robots",
+      "link": "https://aibusiness.com/robotics/florida-university-rolls-out-autonomous-delivery-robots",
+      "description": "The small-scale delivery robots will be in action around campus.",
+      "pubDate": "Wed, 01 Apr 2026 15:21:34 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Now Valued at $852B After Funding Round",
+      "link": "https://aibusiness.com/generative-ai/openai-valued-852b-after-new-funding-round",
+      "description": "The round solidifies the ChatGPT maker's position as one of the world's most valuable private companies.",
+      "pubDate": "Wed, 01 Apr 2026 13:26:40 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Commits $1B to Thailand's AI future",
+      "link": "https://aibusiness.com/generative-ai/microsoft-commits-1b-thailand-s-ai-future",
+      "description": "The move marks another investment by a tech giant in sovereign AI infrastructure.",
+      "pubDate": "Wed, 01 Apr 2026 12:56:33 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Invests $2B In Custom Chip Vendor Marvell Technology",
+      "link": "https://aibusiness.com/data-centers/nvidia-invests-2b-custom-chip-vendor-marvell-technology",
+      "description": "The partnership will integrate Marvell's XPU chips with Nvidia’s NVLink technology.",
+      "pubDate": "Tue, 31 Mar 2026 22:39:16 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Databricks to Invest $850M in UK AI Operations",
+      "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
+      "description": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools.",
+      "pubDate": "Tue, 31 Mar 2026 16:36:09 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nebius to Build One of Europe’s Largest AI Factories in Finland",
+      "link": "https://aibusiness.com/generative-ai/nebius-build-one-of-europe-s-largest-ai-factories-in-finland",
+      "description": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure.",
+      "pubDate": "Tue, 31 Mar 2026 16:01:33 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "South Korean AI Chipmaker Raises $400M for Inference",
+      "link": "https://aibusiness.com/generative-ai/south-korean-ai-chipmaker-raises-400-million-inference",
+      "description": "The evolving AI market presents opportunities for new players, such as Rebellions, to offer silicon diversity.",
+      "pubDate": "Tue, 31 Mar 2026 15:47:35 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Brings New AI Capabilities to Copilot Researcher",
+      "link": "https://aibusiness.com/generative-ai/microsoft-brings-new-ai-capabilities-copilot-researcher",
+      "description": "The updates are designed to bring more accuracy and reliability to enterprise workflows.",
+      "pubDate": "Mon, 30 Mar 2026 19:33:05 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Mistral AI Lands $830M for AI Data Center",
+      "link": "https://aibusiness.com/generative-ai/mistral-ai-lands-830m-ai-data-center",
+      "description": "The center, to be established near Paris, will be powered by thousands of Nvidia chips.",
+      "pubDate": "Mon, 30 Mar 2026 16:44:06 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Under Pressure, LexisNexis Integrates Anthropic Legal AI",
+      "link": "https://aibusiness.com/generative-ai/under-pressure-lexisnexis-anthropic-legal-ai",
+      "description": "The legal information giant reacted to the threat of specialized AI eating into its business by incorporating the Anthropic legal plugin into its platform.",
+      "pubDate": "Mon, 30 Mar 2026 15:39:09 GMT",
+      "creator": "Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "What Anthropic Mythos Means for the AI Lab and Businesses",
+      "link": "https://aibusiness.com/generative-ai/what-anthropic-mythos-means-ai-lab-businesses",
+      "description": "The anticipated model is still mysterious in regard to actual performance. But it shows how the vendor is trying to diversify.",
+      "pubDate": "Mon, 30 Mar 2026 15:37:07 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "US Military AI Company Now Valued at $12.7B",
+      "link": "https://aibusiness.com/generative-ai/us-military-ai-company-valued-12-7-billion",
+      "description": "Shield AI's growth highlights interest in military modernization amid proliferating global conflicts.",
+      "pubDate": "Mon, 30 Mar 2026 14:30:52 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Mistral AI Launches Text-to-Speech Model",
+      "link": "https://aibusiness.com/language-models/mistral-ai-launches-text-to-speech-model",
+      "description": "The system, which operates in nine languages, is designed to support critical voice agent workflows.",
+      "pubDate": "Fri, 27 Mar 2026 17:36:36 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    }
+  ]
+}
