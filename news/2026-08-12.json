@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "title": null,
+      "link": null,
+      "description": null,
+      "pubDate": null,
+      "categories": "Events in India related to Sports",
+      "fetched_at": "2026-08-12T00:00:46.561+05:30"
+    },
+    {
+      "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
+      "link": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
+      "description": "Intelligence involves imagination and emotions, attributes that machines can’t replicate. Successful companies pay attention to people and to what they can do that machines can’t.",
+      "pubDate": "Tue, 11 Aug 2026 18:03:48 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Expands Daybreak to Tackle Growing AI Security Threat",
+      "link": "https://aibusiness.com/cybersecurity/openai-expands-daybreak-tackle-growing-ai-security-threat",
+      "description": "The move is the latest by a major AI lab to address growing concerns about AI cybersecurity problems.",
+      "pubDate": "Tue, 11 Aug 2026 17:43:19 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Partners With Wall Street Giants to Mobilize $500B for AI",
+      "link": "https://aibusiness.com/data-centers/nvidia-partners-wall-street-giants-mobilize-500b-for-ai",
+      "description": "The funding will be used to build AI infrastructure and establish compute and full-stack infrastructure as an “investable asset class.”",
+      "pubDate": "Tue, 11 Aug 2026 15:28:12 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "New Premium Tier for ChatGPT Business",
+      "link": "https://aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
+      "description": "The pricing adjustment is part OpenAI's push for the enterprise market.",
+      "pubDate": "Tue, 11 Aug 2026 14:59:53 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Shutterstock Embraces AI Image Licensing Deals",
+      "link": "https://aibusiness.com/generative-ai/shutterstock-embraces-ai-image-licensing-deals",
+      "description": "The stock image provider has deals with OpenAI and Meta. It wants AI to enable its customers to create content that targets their best audience.",
+      "pubDate": "Tue, 11 Aug 2026 12:12:56 GMT",
+      "creator": "Esther Shittu, Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Meta Reverses Course with Open-Weight Muse Glimmer",
+      "link": "https://aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+      "description": "This shift responds to enterprise demand for tighter data control and local infrastructure systems, in contrast to Meta's recent focus on closed models such as Muse Spark 1.",
+      "pubDate": "Mon, 10 Aug 2026 20:26:20 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Security Concerns Cause OpenAI to Halt Work on Astra Model",
+      "link": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
+      "description": "The move comes after a spate of incidents in which autonomous AI agents escaped their approved environments.",
+      "pubDate": "Mon, 10 Aug 2026 14:57:26 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Spot Robot From Boston Dynamics Deployed at Utah Copper Mine",
+      "link": "https://aibusiness.com/robotics/spot-robot-boston-dynamics-deployed-utah-copper-mine",
+      "description": "Spot is being used to automate inspections, optimize operations and improve workforce safety.",
+      "pubDate": "Mon, 10 Aug 2026 13:36:30 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
+      "link": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
+      "description": "The move comes as Elon Musk's companies look to secure chip capacity for AI, robotics and space-based data centers.",
+      "pubDate": "Fri, 07 Aug 2026 18:17:18 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "DeepSeek Invests in Unitree to Develop AI Brain for Humanoid Bots",
+      "link": "https://aibusiness.com/robotics/deepseek-invests-unitree-develop-ai-brain-for-humanoid-bots",
+      "description": "The investment highlights the growing interconnections between AI models and robots.",
+      "pubDate": "Fri, 07 Aug 2026 15:18:37 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Prompt: Why Better AI Models Aren't Enough",
+      "link": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+      "description": "Enterprise AI success increasingly depends on business processes, context, cost management and operational execution, not just model performance.",
+      "pubDate": "Fri, 07 Aug 2026 14:31:38 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Google DeepMind Releases Gemini 2 Humanoid Model",
+      "link": "https://aibusiness.com/robotics/google-deepmind-gemini-2-humanoid-model",
+      "description": "While Google says the launch brings it closer to &quot;physical AGI,&quot; safety and real-world deployment remain significant hurdles.",
+      "pubDate": "Thu, 06 Aug 2026 20:47:08 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Build Vs. Buy: The AI Agent Landscape for Businesses",
+      "link": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
+      "description": "As generative AI evolves into agentic AI, the build-or-buy decision becomes more complex and depends on numerous factors, including business size, use cases, and strategic priorities.",
+      "pubDate": "Thu, 06 Aug 2026 18:06:46 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Pioneer Geoffrey Hinton Says Agent Breakouts are Scary",
+      "link": "https://aibusiness.com/responsible-ai/ai-pioneer-geoffrey-hinton-agent-breakouts-scary",
+      "description": "The AI expert said it's time to start worrying after AI agents escaped from sandboxes without authorization. Some businesses are taking the initiative to keep their own AI agents under control.",
+      "pubDate": "Thu, 06 Aug 2026 15:48:18 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Anthropic, OpenAI Agents Faked Identities in Security Test",
+      "link": "https://aibusiness.com/cybersecurity/anthropic-openai-agents-faked-identities-security-test",
+      "description": "The vendors' most advanced AI models attempted to manipulate real people during cybersecurity testing, according to the U.K.'s AI Security Institute.",
+      "pubDate": "Wed, 05 Aug 2026 15:58:07 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Infrastructure Startup to Build $10B AI Factory in Norway",
+      "link": "https://aibusiness.com/data-centers/infrastructure-startup-build-10-billion-ai-factory-norway",
+      "description": "The vendor's fundraising has been unusually successful for a new startup as it joins the rush to build AI compute infrastructure.",
+      "pubDate": "Wed, 05 Aug 2026 15:05:42 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI's Impact: How Businesses Are Equipping the Future Workforce",
+      "link": "https://aibusiness.com/generative-ai/ai-s-impact-how-businesses-equipping-the-future-workforce",
+      "description": "The technology's effect on jobs for most businesses is unavoidable. But some are also taking steps to use AI to help job seekers.",
+      "pubDate": "Wed, 05 Aug 2026 14:26:57 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Framework to Cut AI Agent Training Costs",
+      "link": "https://aibusiness.com/agentic-ai/microsoft-framework-cut-ai-agent-training-costs",
+      "description": "The vendor is aiming to capitalize on the growing demand for lower-cost AI services.",
+      "pubDate": "Tue, 04 Aug 2026 14:03:35 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Alibaba Unveils Its ‘Most Powerful’ AI Model Yet",
+      "link": "https://aibusiness.com/generative-ai/alibaba-unveils-most-powerful-ai-model-yet",
+      "description": "Qwen3.8-Max is the latest in a series of launches from Chinese tech firms racing to develop powerful, affordable AI models.",
+      "pubDate": "Mon, 03 Aug 2026 14:47:01 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "US Commerce Department Awards GlobalFoundries $300M for Photonics",
+      "link": "https://aibusiness.com/data-centers/us-commerce-department-awards-globalfoundries-300m-photonics",
+      "description": "The funding will support next-generation photonics, optical materials and advanced packaging for AI infrastructure.",
+      "pubDate": "Mon, 03 Aug 2026 14:05:39 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Europe’s New AI Rules Come Into Force",
+      "link": "https://aibusiness.com/ai-policy/europe-s-ai-rules-come-into-force",
+      "description": "The EU AI Act is the world’s most comprehensive AI legislation.",
+      "pubDate": "Mon, 03 Aug 2026 13:11:54 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Prompt: Enterprises Grapple With Cost of AI Scale",
+      "link": "https://aibusiness.com/generative-ai/prompt-next-enterprise-ai-controlling-cost-of-scale",
+      "description": "As AI adoption expands, enterprises are discovering that managing costs, measuring returns and scaling efficiently are becoming as important as deploying the technology.",
+      "pubDate": "Fri, 31 Jul 2026 15:19:01 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
+      "link": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
+      "description": "The move indicates that a price war for AI models is underway.",
+      "pubDate": "Fri, 31 Jul 2026 14:54:29 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "EU Pledges $11.5B for Seven AI Gigafactories",
+      "link": "https://aibusiness.com/data-centers/eu-pledges-11-5b-seven-ai-gigafactories",
+      "description": "The European Commission launched a tender for the buildout, in a bid to close in on U.S. and Chinese competitors.",
+      "pubDate": "Fri, 31 Jul 2026 14:26:40 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+      "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+      "description": "The partnership aims to give users more choice when building AI agents and automating business processes.",
+      "pubDate": "Thu, 30 Jul 2026 18:44:57 GMT",
+      "creator": "Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Chinese Startups Dominate Humanoid Robotics Patent Rankings",
+      "link": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
+      "description": "New research from LexisNexis showed the nation’s growing influence in the robotics industry.",
+      "pubDate": "Thu, 30 Jul 2026 16:03:07 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "FCC Blocks Chinese Humanoid Robot Imports, Citing Security Risks",
+      "link": "https://aibusiness.com/robotics/fcc-blocks-chinese-humanoid-robot-imports-security-risks",
+      "description": "The latest restrictions target robotics and power infrastructure critical to AI development, as the Trump administration looks to reduce reliance on Chinese technology.",
+      "pubDate": "Wed, 29 Jul 2026 14:26:18 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
+      "link": "https://aibusiness.com/generative-ai/vendor-developing-self-improving-ai-410m-aws-deal",
+      "description": "The company has quickly gained traction since its founding in 2025.",
+      "pubDate": "Wed, 29 Jul 2026 12:49:42 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT-5.6",
+      "link": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
+      "description": "As it ramps up its AI strategy, the tech giant is making a play in the hotly contested AI cybersecurity arena.",
+      "pubDate": "Tue, 28 Jul 2026 20:00:47 GMT",
+      "creator": "Shaun Sutner",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Samsung Agrees to Chip Deal With Broadcom",
+      "link": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+      "description": "The agreement marks another significant step for the South Korean AI sector.",
+      "pubDate": "Tue, 28 Jul 2026 18:55:49 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "AI Arrives in the Private Markets Business",
+      "link": "https://aibusiness.com/generative-ai/ai-arrives-private-markets-business",
+      "description": "Private markets investing and lending are labor-intensive. A startup says it can change that with AI technology.",
+      "pubDate": "Tue, 28 Jul 2026 12:18:36 GMT",
+      "creator": "Shaun Sutner, Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Improved Voice Mode Makes Working With Claude Easier",
+      "link": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
+      "description": "Voice mode now works with a selection of Claude models.",
+      "pubDate": "Mon, 27 Jul 2026 20:58:01 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Neura Robotics to Open Physical AI Training Center",
+      "link": "https://aibusiness.com/robotics/neura-robotics-open-physical-ai-training-center",
+      "description": "The new facility, in collaboration with RWTH Aachen University, will join Neura’s global network of sites providing robotic training data.",
+      "pubDate": "Mon, 27 Jul 2026 15:20:57 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Tech Companies Urge Caution by US policymakers on Open Models",
+      "link": "https://aibusiness.com/generative-ai/tech-companies-urge-caution-us-policymakers-open-ai-models",
+      "description": "The move came as Trump administration officials signaled a possible crackdown on Chinese open models as they quickly gain popularity.",
+      "pubDate": "Mon, 27 Jul 2026 14:24:59 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Prompt: The AI Threat Model Just Changed",
+      "link": "https://aibusiness.com/cybersecurity/prompt-ai-threat-model-just-changed",
+      "description": "OpenAI's security incident highlights a new challenge for enterprises: governing increasingly autonomous AI systems.",
+      "pubDate": "Fri, 24 Jul 2026 15:23:19 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+      "link": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
+      "description": "The incident is a lesson for enterprises that they need to implement appropriate cybersecurity guidance and keep their data within safe confines.",
+      "pubDate": "Thu, 23 Jul 2026 20:55:53 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+      "link": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
+      "description": "The companies’ design supports AI racks of up to 246kW.",
+      "pubDate": "Thu, 23 Jul 2026 19:11:44 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "UK Robot Maker Humanoid Valued at $1.35 billion",
+      "link": "https://aibusiness.com/robotics/uk-robot-maker-humanoid-valued-1-35-billion",
+      "description": "The new funding marks the emergence of a significant European robotics vendor in a sector that has, up to now, been dominated by Chinese and U.S. robotics companies.",
+      "pubDate": "Thu, 23 Jul 2026 14:28:58 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Startup Focused on Enterprise AI Security Valued at $1.2B",
+      "link": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
+      "description": "The vendor has attracted notable funding as AI-related cybersecurity concerns rise.",
+      "pubDate": "Wed, 22 Jul 2026 20:49:12 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Microsoft-Mistral Partnership is About Sovereign AI",
+      "link": "https://aibusiness.com/generative-ai/microsoft-mistral-partnership-about-sovereign-ai",
+      "description": "The alliance strengthens Mistral’s position as the leading European AI vendor, while extending Microsoft’s presence in Europe.",
+      "pubDate": "Wed, 22 Jul 2026 15:51:22 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Google Cloud, Nvidia Collaborate With German Startup for AI Robots",
+      "link": "https://aibusiness.com/robotics/google-cloud-nvidia-collaborate-german-startup-ai-robots",
+      "description": "Microagi will use Google Cloud’s AI infrastructure and Nvidia Blackwell systems to train task-specific embodied AI models.",
+      "pubDate": "Wed, 22 Jul 2026 15:36:15 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Agibot Expands Embodied AI Portfolio With Four New Products",
+      "link": "https://aibusiness.com/robotics/agibot-expands-embodied-ai-portfolio-new-products",
+      "description": "The Chinese robotics company is targeting commercial, industrial and research applications as it looks to move embodied AI from one-off demonstrations to full-scale applications.",
+      "pubDate": "Wed, 22 Jul 2026 12:22:19 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
+      "link": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+      "description": "The updated models are intended to be more affordable for enterprises. The new cyber model is designed to orchestrate.",
+      "pubDate": "Tue, 21 Jul 2026 21:31:59 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
+      "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
+      "description": "The tool comes amid mounting pressure from low-cost AI providers in China on U.S. AI vendors.",
+      "pubDate": "Tue, 21 Jul 2026 17:52:30 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
+      "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
+      "description": "The low-cost, open-weight model and others from China give enterprises more choices, given the performance claims of some Chinese model providers.",
+      "pubDate": "Tue, 21 Jul 2026 16:00:50 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Startup Launches Foundry to Develop Materials for Chips",
+      "link": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
+      "description": "Founding members -- including Nvidia, Meta and Samsung -- aim to reduce their reliance on rare materials used in chips.",
+      "pubDate": "Mon, 20 Jul 2026 19:16:44 GMT",
+      "creator": "Graham Hope",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "As AI Spending Climbs, Enterprises Get Serious About Token Costs",
+      "link": "https://aibusiness.com/generative-ai/as-ai-spending-climbs-enterprises-serious-about-token-cost",
+      "description": "Opaque pricing and backward-looking bills force enterprises to rethink their AI model strategy.",
+      "pubDate": "Mon, 20 Jul 2026 12:05:10 GMT",
+      "creator": "Patrick Thibodeau",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+      "link": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+      "description": "The chipmaker is fleshing out its physical AI ecosystem, from foundation models and edge hardware to software, developer tools and industrial partnerships.",
+      "pubDate": "Fri, 17 Jul 2026 20:12:21 GMT",
+      "creator": "Scarlett Evans",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Chinese AI Startup Releases Massive Open-Weight Model",
+      "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+      "description": "Kimi K3 offers enterprises a 2.8 trillion parameter open model. But for U.S.-based companies, deciding whether to use it is complicated.",
+      "pubDate": "Fri, 17 Jul 2026 16:22:42 GMT",
+      "creator": "Esther Shittu",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    },
+    {
+      "title": "Prompt: Enterprise AI Must Prove Its Value Beyond Deployment",
+      "link": "https://aibusiness.com/agentic-ai/enterprise-ai-prove-value-beyond-deployment",
+      "description": "Organizations are moving beyond AI deployment to focus on measurable business value, workflow redesign and the governance needed to successfully scale AI.",
+      "pubDate": "Fri, 17 Jul 2026 14:34:26 GMT",
+      "creator": "Liz Hughes",
+      "categories": "AI News",
+      "fetched_at": "https://aibusiness.com/"
+    }
+  ]
+}
